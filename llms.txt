@@ -1,0 +1,261 @@
+# Příručka pro člena zastupitelstva obce po volbách v roce 2022
+
+> Neoficiální převod příručky Svazu měst a obcí ČR (SMO ČR, 2022) do Markdownu pro práci s jazykovými modely. Právní stav k roku 2022 – předpisy se od té doby mohly změnit, ověřujte aktuální znění. Originál: https://www.smocr.cz/Shared/Clanky/12158/eprirucka-final.pdf
+
+Jak hledat: podle popisů níže vyber 1–3 nejrelevantnější soubory a přečti jen ty. Každý soubor má v hlavičce rozsah stran originálu a v textu značky `<!-- str. N -->`, podle kterých lze citovat stranu PDF. Poznámky pod čarou jsou na konci souboru (`[^kapitola-číslo]`). Poslední podkapitola každé kapitoly obvykle obsahuje časté otázky, související předpisy, literaturu a dotazy z Právní poradny pro obce.
+
+## Úvod
+
+- [Předmluva](kapitoly/00-predmluva.md): Úvodní slovo předsedy SMO ČR: smysl příručky, aktualizace kapitol, vzdělávací projekt ESO. (str. 4, 3 tis. znaků)
+
+## 1 Svaz měst a obcí ČR prosazuje vaše zájmy
+
+- [1 Svaz měst a obcí ČR prosazuje vaše zájmy](kapitoly/01-svaz-mest-a-obci-cr-prosazuje-vase-zajmy.md): Kdo je Svaz měst a obcí ČR, jeho cíle, projekty, komory a organizační struktura (schéma převedeno na text). (str. 10–12, 13 tis. znaků)
+
+## 2 Základní principy fungování obce a jejích orgánů
+
+- [2.1 Postavení obce v systému veřejné správy](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.01-postaveni-obce-v-systemu-verejne-spravy.md): Úvod kapitoly a ústavní postavení obce: počet obcí, zákon o obcích, Ústava, Evropská charta místní samosprávy. (str. 13, 3 tis. znaků)
+- [2.2 Veřejná správa](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.02-verejna-sprava.md): Veřejná správa: státní správa vs. samospráva, obce jako vykonavatelé státní správy (přenesená působnost); schéma členění veřejné správy. (str. 13–14, 5 tis. znaků)
+- [2.3 Základní znaky obce](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.03-zakladni-znaky-obce.md): Obec jako veřejnoprávní korporace: území a jeho změny, občané obce, samostatná a přenesená působnost, typy obcí (I.–III. typ, ORP, pověřený úřad). (str. 15–18, 20 tis. znaků)
+- [2.4 Orgány obce a jejich vzájemné vztahy](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.04-organy-obce-a-jejich-vzajemne-vztahy.md): Orgány obce: zastupitelstvo (práva a povinnosti členů, vyhrazené pravomoci, jednání, jednací řád, usnášeníschopnost, výbory), rada, starosta, místostarosta, obecní úřad, komise. Nejdelší podkapitola; časté otázky. (str. 18–26, 49 tis. znaků)
+- [2.5 Odměňování](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.05-odmenovani.md): Odměňování zastupitelů: uvolnění a neuvolnění členové, měsíční odměny ze zákona, nařízení vlády, souběh funkcí, mimořádné odměny; časté otázky. (str. 26–28, 13 tis. znaků)
+- [2.6 Právní předpisy obce](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.06-pravni-predpisy-obce.md): Právní předpisy obce: obecně závazné vyhlášky (samostatná působnost) a nařízení (přenesená působnost), vydávání, vyhlašování, účinnost, dozor ministerstva vnitra; časté otázky. (str. 28–32, 21 tis. znaků)
+- [2.7 Principy dobré veřejné správy uplatňované v rámci samosprávy](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.07-principy-dobre-verejne-spravy-uplatnovane-v-ramc.md): Principy dobré správy a etický kodex zastupitele: co by zastupitel měl a neměl dělat. (str. 32–33, 8 tis. znaků)
+- [2.8 Volby do zastupitelstev obcí](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.08-volby-do-zastupitelstev-obci.md): Volby do zastupitelstev obcí: vznik mandátu, slib, neslučitelnost funkcí, zánik mandátu, náhradníci; časté otázky. (str. 33–35, 10 tis. znaků)
+- [2.9 Místní referendum](kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.09-mistni-referendum.md): Místní referendum: kdo jej může iniciovat, o čem se nesmí konat, platnost a závaznost výsledku. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 35–37, 11 tis. znaků)
+
+## 3 Odpovědnost zastupitelů
+
+- [3.1 Politická a právní odpovědnost zastupitelů – základní rozlišení a úvod do problému](kapitoly/03-odpovednost-zastupitelu/03.01-politicka-a-pravni-odpovednost-zastupitelu-zakla.md): Úvod ke kapitole o odpovědnosti: rozdíl mezi politickou a právní odpovědností zastupitelů. (str. 38, 3 tis. znaků)
+- [3.2 Základní právní povinnosti člena zastupitelstva obce](kapitoly/03-odpovednost-zastupitelu/03.02-zakladni-pravni-povinnosti-clena-zastupitelstva.md): Právní odpovědnost zastupitele: péče řádného hospodáře, střet zájmů a oznamování, neslučitelnost funkcí, odpovědnost za škodu, předsmluvní odpovědnost, trestní odpovědnost, vymáhání náhrady škody, pojištění odpovědnosti. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 38–46, 47 tis. znaků)
+
+## 4 Finance a rozpočet
+
+- [4.1 Rozpočet a pravidla rozpočtové odpovědnosti](kapitoly/04-finance-a-rozpocet/04.01-rozpocet-a-pravidla-rozpoctove-odpovednosti.md): Úvod ke kapitole o financích a pravidla rozpočtové odpovědnosti: dopady covidu na rozpočty, zadlužení, střednědobý výhled rozpočtu. (str. 47–48, 10 tis. znaků)
+- [4.2 Rozpočtový proces](kapitoly/04-finance-a-rozpocet/04.02-rozpoctovy-proces.md): Rozpočtový proces: sestavení a schválení rozpočtu, zveřejňování, rozpočtové provizorium, rozpočtová opatření, peněžní fondy, závěrečný účet. (str. 48–51, 19 tis. znaků)
+- [4.3 Vlastní příjmy vždy nejistě jisté](kapitoly/04-finance-a-rozpocet/04.03-vlastni-prijmy-vzdy-nejiste-jiste.md): Příjmy obce: rozpočtové určení daní (RUD), daň z nemovitých věcí a místní koeficienty, místní poplatky (ze psů, z pobytu, za veřejné prostranství, ze vstupného, za odpady), nedaňové příjmy. (str. 52–58, 35 tis. znaků)
+- [4.4 Dotace – peníze, které nejsou zadarmo](kapitoly/04-finance-a-rozpocet/04.04-dotace-penize-ktere-nejsou-zadarmo.md): Dotace: příspěvek na výkon státní správy, dotace ze státního rozpočtu a EU, obec jako poskytovatel dotací (veřejnoprávní smlouva, program). (str. 58–60, 10 tis. znaků)
+- [4.5 Výdaje, výdaje, výdaje](kapitoly/04-finance-a-rozpocet/04.05-vydaje-vydaje-vydaje.md): Výdaje obce: běžné a kapitálové výdaje, priority, provozní náklady investic. (str. 60, 3 tis. znaků)
+- [4.6 Když se obec zadluží](kapitoly/04-finance-a-rozpocet/04.06-kdyz-se-obec-zadluzi.md): Zadlužení obce: úvěry, zápůjčky, návratná finanční výpomoc, komunální dluhopisy, pravidlo rozpočtové odpovědnosti. (str. 60–61, 4 tis. znaků)
+- [4.7 Účetnictví a výkaznictví někdy také ve službách obce](kapitoly/04-finance-a-rozpocet/04.07-ucetnictvi-a-vykaznictvi-nekdy-take-ve-sluzbach.md): Účetnictví a výkaznictví obce: vybrané účetní jednotky, účetní závěrka a její schvalování, výkazy. (str. 61–62, 6 tis. znaků)
+- [4.8 Kontrola (včera) dnes a zítra](kapitoly/04-finance-a-rozpocet/04.08-kontrola-vcera-dnes-a-zitra.md): Kontrola hospodaření: přezkoumání hospodaření (krajský úřad nebo auditor), finanční kontrola, voličská kontrola. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 62–65, 15 tis. znaků)
+
+## 5 Hospodaření s majetkem obce
+
+- [5.1 Základní principy](kapitoly/05-hospodareni-s-majetkem-obce/05.01-zakladni-principy.md): Úvod ke kapitole o majetku obce: základní principy hospodaření s obecním majetkem (§ 35 a násl. zákona o obcích). (str. 66, 3 tis. znaků)
+- [5.2 Majetek obcí a jeho možné třídění](kapitoly/05-hospodareni-s-majetkem-obce/05.02-majetek-obci-a-jeho-mozne-trideni.md): Druhy obecního majetku (movité a nemovité věci, veřejné prostranství) a způsoby jeho nabývání. (str. 66–68, 8 tis. znaků)
+- [5.3 Přímá a nepřímá správa obecního majetku](kapitoly/05-hospodareni-s-majetkem-obce/05.03-prima-a-neprima-sprava-obecniho-majetku.md): Přímá a nepřímá správa majetku: organizační složky, příspěvkové organizace, obchodní společnosti obce. (str. 68, 3 tis. znaků)
+- [5.4 Povinnosti při hospodaření s obecním majetkem](kapitoly/05-hospodareni-s-majetkem-obce/05.04-povinnosti-pri-hospodareni-s-obecnim-majetkem.md): Povinnosti při hospodaření s majetkem: účelnost a hospodárnost, péče řádného hospodáře, ochrana majetku; časté otázky. (str. 68–70, 11 tis. znaků)
+- [5.5 Cena obvyklá](kapitoly/05-hospodareni-s-majetkem-obce/05.05-cena-obvykla.md): Cena obvyklá při prodeji a pronájmu majetku obce, odchylky a jejich zdůvodnění; časté otázky. (str. 70–71, 4 tis. znaků)
+- [5.6 Povinnost zveřejnit záměr](kapitoly/05-hospodareni-s-majetkem-obce/05.06-povinnost-zverejnit-zamer.md): Zveřejnění záměru (§ 39 zákona o obcích): kdy je povinné, náležitosti, úřední deska, 15 dní, výjimky, výběr z nabídek; časté otázky. (str. 71–72, 10 tis. znaků)
+- [5.7 Rozhodnutí orgánu obce o majetkové dispozici](kapitoly/05-hospodareni-s-majetkem-obce/05.07-rozhodnuti-organu-obce-o-majetkove-dispozici.md): Kdo v obci rozhoduje o majetkových dispozicích: vyhrazené pravomoci zastupitelstva vs. rada a starosta, obce bez rady; navigační tabulka právních jednání (koupě, dar, směna, nájem, výpůjčka, věcná břemena…), náležitosti usnesení. (str. 73–77, 16 tis. znaků)
+- [5.8 Uzavření smlouvy](kapitoly/05-hospodareni-s-majetkem-obce/05.08-uzavreni-smlouvy.md): Uzavření smlouvy: podpis starostou, doložka o splnění podmínek platnosti. (str. 78, 3 tis. znaků)
+- [5.9 Zveřejňování smluv v registru smluv](kapitoly/05-hospodareni-s-majetkem-obce/05.09-zverejnovani-smluv-v-registru-smluv.md): Zveřejňování smluv v registru smluv: povinnost od 1. 7. 2016, výjimky, následky nezveřejnění. (str. 78, 2 tis. znaků)
+- [5.10 Kontrola hospodaření](kapitoly/05-hospodareni-s-majetkem-obce/05.10-kontrola-hospodareni.md): Vnitřní a vnější kontrola hospodaření s majetkem. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 78–81, 14 tis. znaků)
+
+## 6 Veřejné zakázky
+
+- [6.1 Úvod do veřejných zakázek a základní pojmy](kapitoly/06-verejne-zakazky/06.01-uvod-do-verejnych-zakazek-a-zakladni-pojmy.md): Úvod do veřejných zakázek: zákon o zadávání veřejných zakázek (ZZVZ), zadavatel, druhy zakázek, zásady zadávání. (str. 82–83, 7 tis. znaků)
+- [6.2 Předpokládaná hodnota](kapitoly/06-verejne-zakazky/06.02-predpokladana-hodnota.md): Předpokládaná hodnota zakázky: jak ji stanovit, sčítání plnění, příklad chybného stanovení. (str. 83–84, 4 tis. znaků)
+- [6.3 Režimy veřejných zakázek a druhy zadávacích řízení](kapitoly/06-verejne-zakazky/06.03-rezimy-verejnych-zakazek-a-druhy-zadavacich-rize.md): Režimy zakázek a finanční limity (malý rozsah do 2 mil. / 6 mil. Kč, podlimitní, nadlimitní; tabulka limitů 2022), druhy zadávacích řízení. (str. 84–85, 5 tis. znaků)
+- [6.4 Proces veřejných zakázek](kapitoly/06-verejne-zakazky/06.04-proces-verejnych-zakazek.md): Průběh zadávání: zakázky malého rozsahu (výběrové řízení, vnitřní směrnice) vs. zadávací řízení. (str. 85–86, 7 tis. znaků)
+- [6.5 Kritéria k hodnocení](kapitoly/06-verejne-zakazky/06.05-kriteria-k-hodnoceni.md): Hodnocení nabídek: ekonomická výhodnost, kritéria kvality, nejen nejnižší cena. (str. 86, 3 tis. znaků)
+- [6.6 Uveřejňování](kapitoly/06-verejne-zakazky/06.06-uverejnovani.md): Uveřejňování: profil zadavatele, smlouvy nad 500 000 Kč, skutečně uhrazená cena. (str. 86–87, 4 tis. znaků)
+- [6.7 Elektronizace ve veřejných zakázkách](kapitoly/06-verejne-zakazky/06.07-elektronizace-ve-verejnych-zakazkach.md): Elektronizace zadávání: elektronická komunikace a podávání nabídek, elektronické nástroje. (str. 87, 3 tis. znaků)
+- [6.8 Sankce proti Rusku a Bělorusku](kapitoly/06-verejne-zakazky/06.08-sankce-proti-rusku-a-belorusku.md): Sankce proti Rusku a Bělorusku ve veřejných zakázkách: zákaz zadání dotčeným dodavatelům, doporučení pro zadavatele. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 87–90, 13 tis. znaků)
+
+## 7 Územní a strategické plánování rozvoje obce
+
+- [7.1 Strategické plánování](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.01-strategicke-planovani.md): Strategické plánování obce: program rozvoje obce (PRO), struktura PRO (schéma), analýzy PESTLE a SWOT, akční plán, ukazatele, databáze strategií, model strategického řízení. (str. 91–98, 36 tis. znaků)
+- [7.2 Strategie v plánování a řízení a úředníci](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.02-strategie-v-planovani-a-rizeni-a-urednici.md): Role úředníků při přípravě a naplňování strategie. (str. 98, 1 tis. znaků)
+- [7.3 Provázání strategického plánu s rozpočtem obce](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.03-provazani-strategickeho-planu-s-rozpoctem-obce.md): Provázání strategie s rozpočtem obce a rozpočtovým výhledem. (str. 98, 1 tis. znaků)
+- [7.4 Projektové řízení obce](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.04-projektove-rizeni-obce.md): Projektové řízení obce: investiční a neinvestiční projekty. (str. 99, 3 tis. znaků)
+- [7.5 Jednotlivé fáze životního cyklu projektu](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.05-jednotlive-faze-zivotniho-cyklu-projektu.md): Životní cyklus projektu: předprojektová, realizační a provozní fáze, studie proveditelnosti (ukázková osnova), harmonogram, rozpočet, indikátory, udržitelnost. (str. 99–101, 12 tis. znaků)
+- [7.6 Územní plánování](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.06-uzemni-planovani.md): Úvod do územního plánování: proč jsou procesy dlouhé, role obce. (str. 102, 4 tis. znaků)
+- [7.7 Systém územního plánování](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.07-system-uzemniho-planovani.md): Systém územního plánování: nástroje, aktéři, proces. (str. 102, 1 tis. znaků)
+- [7.8 Nástroje územního plánování](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.08-nastroje-uzemniho-planovani.md): Nástroje územního plánování: územně plánovací podklady, politika územního rozvoje, územně plánovací dokumentace. (str. 102–103, 5 tis. znaků)
+- [7.9 Zásady územního rozvoje kraje](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.09-zasady-uzemniho-rozvoje-kraje.md): Zásady územního rozvoje kraje. (str. 103–104, 2 tis. znaků)
+- [7.10 Územní plán obce](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.10-uzemni-plan-obce.md): Územní plán obce: pořízení a vydání, regulační plán, územní rozhodnutí, územní řízení, stavební uzávěra, asanace území. (str. 104–106, 16 tis. znaků)
+- [7.11 Úprava vztahů v území](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.11-uprava-vztahu-v-uzemi.md): Úprava vztahů v území: předkupní právo obce, náhrady za změnu v území. (str. 106–107, 1 tis. znaků)
+- [7.12 Působnost ve věcech územního plánování](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.12-pusobnost-ve-vecech-uzemniho-planovani.md): Kdo vykonává působnost v územním plánování: ORP jako pořizovatel, stavební úřad, zastupitelstvo a rada obce. (str. 107, 4 tis. znaků)
+- [7.13 Procesy územního plánování](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.13-procesy-uzemniho-planovani.md): Proces pořízení územního plánu krok za krokem: rozhodnutí o pořízení, zadání, návrh, společné a veřejné projednání, námitky a připomínky. (str. 107–111, 21 tis. znaků)
+- [7.14 Závěrem](kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.14-zaverem.md): Závěr kapitoly o plánování; poslední kroky pořízení územního plánu, metodiky. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 111–113, 10 tis. znaků)
+
+## 8 Veřejné služby
+
+- [8.1 Úvod](kapitoly/08-verejne-sluzby/08.01-uvod.md): Úvod do veřejných služeb: pojmy a kategorie, veřejný zájem, kdo je zajišťuje. (str. 114–115, 7 tis. znaků)
+- [8.2 Dostupnost veřejných služeb](kapitoly/08-verejne-sluzby/08.02-dostupnost-verejnych-sluzeb.md): Dostupnost veřejných služeb: fyzická, časová, finanční. (str. 115, 3 tis. znaků)
+- [8.3 Veřejné služby zajišťované obcí ze zákona](kapitoly/08-verejne-sluzby/08.03-verejne-sluzby-zajistovane-obci-ze-zakona.md): Veřejné služby, které musí obec zajistit ze zákona (školy, odpady, voda, požární ochrana, sociální služby aj.), subsidiarita. (str. 116, 6 tis. znaků)
+- [8.4 Další veřejné služby zajišťované obcí](kapitoly/08-verejne-sluzby/08.04-dalsi-verejne-sluzby-zajistovane-obci.md): Další služby, které obec může poskytovat: obecní policie, veřejné osvětlení a další. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 117–119, 11 tis. znaků)
+
+## 9 Veřejný pořádek a bezpečnost
+
+- [9.1 Obecně závazné vyhlášky o veřejném pořádku](kapitoly/09-verejny-poradek-a-bezpecnost/09.01-obecne-zavazne-vyhlasky-o-verejnem-poradku.md): Úvod ke kapitole o veřejném pořádku; obecně závazné vyhlášky o veřejném pořádku: co lze a nelze regulovat (noční klid, alkohol, psi, herní prostory), judikatura; nařízení o tržním řádu. (str. 120–122, 10 tis. znaků)
+- [9.2 Přestupky](kapitoly/09-verejny-poradek-a-bezpecnost/09.02-prestupky.md): Přestupky: druhy, přestupky proti veřejnému pořádku, kdo je projednává, veřejnoprávní smlouva o projednávání přestupků, co může dělat zastupitel. (str. 122–123, 8 tis. znaků)
+- [9.3 Obecní policie](kapitoly/09-verejny-poradek-a-bezpecnost/09.03-obecni-policie.md): Obecní policie: zřízení vyhláškou, řízení starostou, oprávnění strážníků. (str. 123, 2 tis. znaků)
+- [9.4 Spolupráce obcí a Policie ČR](kapitoly/09-verejny-poradek-a-bezpecnost/09.04-spoluprace-obci-a-policie-cr.md): Spolupráce obce s Policií ČR: koordinační dohoda. (str. 123–124, 2 tis. znaků)
+- [9.5 Shromažďování občanů](kapitoly/09-verejny-poradek-a-bezpecnost/09.05-shromazdovani-obcanu.md): Shromažďování občanů: zákon o právu shromažďovacím, oznámení shromáždění, rozpuštění, akce typu technoparty. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 124–127, 16 tis. znaků)
+
+## 10 Krizové řízení v České republice
+
+- [10.1 Stručná historie krizového řízení v České republice](kapitoly/10-krizove-rizeni-v-ceske-republice/10.01-strucna-historie-krizoveho-rizeni-v-ceske-republ.md): Úvod a historie krizového řízení v ČR. (str. 128–129, 5 tis. znaků)
+- [10.2 Legislativní architektura krizového řízení](kapitoly/10-krizove-rizeni-v-ceske-republice/10.02-legislativni-architektura-krizoveho-rizeni.md): Legislativní architektura krizového řízení (schéma zákonů převedeno na text). (str. 129, 2 tis. znaků)
+- [10.3 Mimořádná událost, krizová situace, krizové stavy](kapitoly/10-krizove-rizeni-v-ceske-republice/10.03-mimoradna-udalost-krizova-situace-krizove-stavy.md): Mimořádná událost, krizová situace a krizové stavy (stav nebezpečí, nouzový stav, stav ohrožení státu, válečný stav): kdo je vyhlašuje, na jak dlouho; tabulky rizik a krizových stavů. (str. 129–131, 7 tis. znaků)
+- [10.4 Orgány krizového řízení a jejich základní povinnosti](kapitoly/10-krizove-rizeni-v-ceske-republice/10.04-organy-krizoveho-rizeni-a-jejich-zakladni-povinn.md): Orgány krizového řízení na úrovni státu, kraje, ORP a obce; povinnosti starosty za krizového stavu, krizový štáb; graf důvodů vyhlášení stavů nebezpečí; tabulka krizových a havarijních plánů. (str. 131–133, 9 tis. znaků)
+- [10.5 Základy krizového plánování](kapitoly/10-krizove-rizeni-v-ceske-republice/10.05-zaklady-krizoveho-planovani.md): Krizové plánování: krizový plán, havarijní plán, vnější havarijní plán, zóny havarijního plánování. (str. 133–134, 5 tis. znaků)
+- [10.6 Ochrana obyvatelstva](kapitoly/10-krizove-rizeni-v-ceske-republice/10.06-ochrana-obyvatelstva.md): Ochrana obyvatelstva: varování, evakuace, ukrytí, individuální ochrana, nouzové přežití; schéma civilní ochrany a obrany; úkoly starosty. (str. 134–136, 9 tis. znaků)
+- [10.7 Integrovaný záchranný systém](kapitoly/10-krizove-rizeni-v-ceske-republice/10.07-integrovany-zachranny-system.md): Integrovaný záchranný systém (IZS): základní a ostatní složky, koordinace zásahu. (str. 136–138, 7 tis. znaků)
+- [10.8 Ochrana před povodněmi](kapitoly/10-krizove-rizeni-v-ceske-republice/10.08-ochrana-pred-povodnemi.md): Ochrana před povodněmi: povodňové orgány a komise obce, povodňový plán, stupně povodňové aktivity, předpovědní a hlásná služba, výstrahy ČHMÚ; tabulky opatření a orgánů. (str. 138–141, 15 tis. znaků)
+- [10.9 Hospodářská opatření pro krizové stavy](kapitoly/10-krizove-rizeni-v-ceske-republice/10.09-hospodarska-opatreni-pro-krizove-stavy.md): Hospodářská opatření pro krizové stavy: Správa státních hmotných rezerv, humanitární pomoc, nouzové zásobování vodou, regulační opatření. (str. 141–142, 8 tis. znaků)
+- [10.10 Finanční zajištění krizového řízení, obnova území postiženého živelní pohromou](kapitoly/10-krizove-rizeni-v-ceske-republice/10.10-financni-zajisteni-krizoveho-rizeni-obnova-uzemi.md): Financování krizového řízení a státní pomoc při obnově území po živelní pohromě. (str. 143–144, 8 tis. znaků)
+- [10.11 Zajišťování obrany České republiky](kapitoly/10-krizove-rizeni-v-ceske-republice/10.11-zajistovani-obrany-ceske-republiky.md): Zajišťování obrany ČR: povinnosti krajů, ORP a obcí; tabulka povinností. (str. 144–146, 8 tis. znaků)
+- [10.12 Požární ochrana u obcí](kapitoly/10-krizove-rizeni-v-ceske-republice/10.12-pozarni-ochrana-u-obci.md): Požární ochrana v obci: jednotka sboru dobrovolných hasičů (JSDH) vs. sbor dobrovolných hasičů (spolek). (str. 146, 2 tis. znaků)
+- [10.13 Vybrané základní pojmy požární ochrany](kapitoly/10-krizove-rizeni-v-ceske-republice/10.13-vybrane-zakladni-pojmy-pozarni-ochrany.md): Pojmy požární ochrany: kategorie jednotek, početní stavy JSDH, akceschopnost, dotace, úlohy obce. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 146–150, 20 tis. znaků)
+
+## 11 Sociální problematika a role obce
+
+- [11.1 Úvod do problematiky sociální politiky](kapitoly/11-socialni-problematika-a-role-obce/11.01-uvod-do-problematiky-socialni-politiky.md): Úvod do sociální politiky: podstata, principy, kvalita života, sociální práce a její cílové skupiny. (str. 151–154, 15 tis. znaků)
+- [11.2 Systém sociální péče, pomoci a podpory v České republice](kapitoly/11-socialni-problematika-a-role-obce/11.02-system-socialni-pece-pomoci-a-podpory-v-ceske-re.md): Systém sociálního zabezpečení: sociální pojištění, státní sociální podpora, hmotná nouze, dávky pro osoby se zdravotním postižením, příspěvek na péči (schémata a tabulky dávek). (str. 154–158, 20 tis. znaků)
+- [11.3 Role obce v sociální oblasti](kapitoly/11-socialni-problematika-a-role-obce/11.03-role-obce-v-socialni-oblasti.md): Role obce v sociální oblasti: sociální služby, komunitní plánování sociálních služeb, sociální práce na obcích, sociálně-právní ochrana dětí. (str. 158–161, 16 tis. znaků)
+- [11.4 Vybrané aktuální problémy sociální politiky](kapitoly/11-socialni-problematika-a-role-obce/11.04-vybrane-aktualni-problemy-socialni-politiky.md): Aktuální sociální problémy: stárnutí populace, bytová nouze a sociální bydlení, sociální začleňování, reforma psychiatrické péče. (str. 161–164, 19 tis. znaků)
+- [11.5 Závěrem](kapitoly/11-socialni-problematika-a-role-obce/11.05-zaverem.md): Závěr kapitoly o sociální oblasti. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 164–168, 16 tis. znaků)
+
+## 12 Školství
+
+- [12.1 Role obce a státu při správě školství](kapitoly/12-skolstvi/12.01-role-obce-a-statu-pri-sprave-skolstvi.md): Úvod ke kapitole o školství; role obce a státu ve správě školství, školský zákon, zápis do MŠ. (str. 169–171, 14 tis. znaků)
+- [12.2 Povinnosti obce v předškolním vzdělávání](kapitoly/12-skolstvi/12.02-povinnosti-obce-v-predskolnim-vzdelavani.md): Povinnosti obce v předškolním vzdělávání: zřizování MŠ, spádové obvody, povinné předškolní vzdělávání. (str. 171–172, 6 tis. znaků)
+- [12.3 Povinnosti obce v základním vzdělávání](kapitoly/12-skolstvi/12.03-povinnosti-obce-v-zakladnim-vzdelavani.md): Povinnosti obce v základním vzdělávání: povinná školní docházka, školské obvody, dohody mezi obcemi, úhrada výdajů za žáky z jiných obcí. (str. 172–173, 4 tis. znaků)
+- [12.4 Jak zřizovat školu a školská zařízení](kapitoly/12-skolstvi/12.04-jak-zrizovat-skolu-a-skolska-zarizeni.md): Zřízení školy a školského zařízení: příspěvková organizace nebo školská právnická osoba, zřizovací listina, rejstřík škol, jmenování ředitele. (str. 173–174, 5 tis. znaků)
+- [12.5 Další povinnosti obce (školská rada, hmotné zabezpečení)](kapitoly/12-skolstvi/12.05-dalsi-povinnosti-obce-skolska-rada-hmotne-zabezp.md): Školská rada a hmotné zabezpečení škol. (str. 174, 5 tis. znaků)
+- [12.6 Další možnosti obce (další zřizovatelská působnost, výjimka z počtu žáků, hodnocení škol a školských zařízení, podpůrná opatření, komunitní škola)](kapitoly/12-skolstvi/12.06-dalsi-moznosti-obce-dalsi-zrizovatelska-pusobnos.md): Další možnosti obce: ZUŠ a další zařízení, výjimka z počtu žáků, hodnocení škol, podpůrná opatření, komunitní škola. (str. 175–176, 7 tis. znaků)
+- [12.7 Financování a role obce](kapitoly/12-skolstvi/12.07-financovani-a-role-obce.md): Financování škol: co platí stát (pedagogové, normativy) a co obec (provoz), postup financování. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 176–179, 17 tis. znaků)
+
+## 13 Kultura
+
+- [13.1 Sociokulturní potenciál obce](kapitoly/13-kultura/13.01-sociokulturni-potencial-obce.md): Úvod ke kapitole o kultuře; sociokulturní potenciál obce. (str. 180, 3 tis. znaků)
+- [13.2 Kulturní politika obce](kapitoly/13-kultura/13.02-kulturni-politika-obce.md): Kulturní politika obce: koncepce, vyváženost podpory. (str. 180–181, 3 tis. znaků)
+- [13.3 Obec a kulturní zařízení](kapitoly/13-kultura/13.03-obec-a-kulturni-zarizeni.md): Kulturní zařízení obce: knihovny (knihovní zákon), muzea, informační centra, galerie, divadla, kina, spolky. (str. 181–182, 6 tis. znaků)
+- [13.4 Ochrana památek a jejich regenerace](kapitoly/13-kultura/13.04-ochrana-pamatek-a-jejich-regenerace.md): Ochrana kulturních památek a jejich regenerace, programy podpory. (str. 182, 2 tis. znaků)
+- [13.5 Kroniky obcí](kapitoly/13-kultura/13.05-kroniky-obci.md): Kronika obce: povinnost vést kroniku, kronikář. (str. 182–183, 2 tis. znaků)
+- [13.6 Financování kultury z obecního rozpočtu](kapitoly/13-kultura/13.06-financovani-kultury-z-obecniho-rozpoctu.md): Financování kultury z rozpočtu obce, granty a dotace. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 183–184, 7 tis. znaků)
+
+## 14 Životní prostředí
+
+- [14.1 Odpady](kapitoly/14-zivotni-prostredi/14.01-odpady.md): Úvod ke kapitole o životním prostředí; odpady: plány odpadového hospodářství, systém obce, směsný a tříděný odpad, poplatek, orgány odpadového hospodářství. (str. 185–188, 17 tis. znaků)
+- [14.2 Voda](kapitoly/14-zivotni-prostredi/14.02-voda.md): Voda: plány rozvoje vodovodů a kanalizací, pitná voda, odpadní vody, provoz vodovodů a kanalizací, povodně, vodoprávní úřady. (str. 188–190, 11 tis. znaků)
+- [14.3 Zeleň](kapitoly/14-zivotni-prostredi/14.03-zelen.md): Veřejná zeleň a kácení dřevin. (str. 190, 4 tis. znaků)
+- [14.4 Ovzduší](kapitoly/14-zivotni-prostredi/14.04-ovzdusi.md): Ochrana ovzduší: imisní limity, domácí topeniště. (str. 190–191, 6 tis. znaků)
+- [14.5 Půda, lesy, ochrana přírody, krajiny, živočichů a rostlin](kapitoly/14-zivotni-prostredi/14.05-puda-lesy-ochrana-prirody-krajiny-zivocichu-a-ro.md): Půda, lesy, ochrana přírody a krajiny, ochrana živočichů a rostlin; působnost obecních úřadů. (str. 191–193, 12 tis. znaků)
+- [14.6 Veřejné osvětlení](kapitoly/14-zivotni-prostredi/14.06-verejne-osvetleni.md): Veřejné osvětlení: technické normy, energetické úspory. (str. 193–194, 2 tis. znaků)
+- [14.7 Financování a realizace projektů v životním prostředí](kapitoly/14-zivotni-prostredi/14.07-financovani-a-realizace-projektu-v-zivotnim-pros.md): Financování projektů v životním prostředí: dotace a fondy, realizace projektu. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 194–196, 14 tis. znaků)
+
+## 15 Doprava
+
+- [15.1 Pozemní komunikace ve vlastnictví obce](kapitoly/15-doprava/15.01-pozemni-komunikace-ve-vlastnictvi-obce.md): Úvod ke kapitole o dopravě; pozemní komunikace ve vlastnictví obce: místní a účelové komunikace, chodníky, údržba a zimní údržba. (str. 197–198, 5 tis. znaků)
+- [15.2 Stanovení místní a přechodné úpravy provozu na pozemních komunikacích](kapitoly/15-doprava/15.02-stanoveni-mistni-a-prechodne-upravy-provozu-na-p.md): Místní a přechodná úprava provozu (dopravní značení): kdo ji stanoví. (str. 198, 3 tis. znaků)
+- [15.3 Právní akty obce ve vztahu k užívání pozemních komunikací](kapitoly/15-doprava/15.03-pravni-akty-obce-ve-vztahu-k-uzivani-pozemnich-k.md): Nařízení obce o placeném stání a užívání místních komunikací. (str. 198, 2 tis. znaků)
+- [15.4 Regulační řád pro případy vzniku smogové situace a nízkoemisní zóny](kapitoly/15-doprava/15.04-regulacni-rad-pro-pripady-vzniku-smogove-situace.md): Regulační řád pro smogové situace a nízkoemisní zóny. (str. 199, 2 tis. znaků)
+- [15.5 Obec a bezpečnost provozu na pozemních komunikacích](kapitoly/15-doprava/15.05-obec-a-bezpecnost-provozu-na-pozemnich-komunikac.md): Bezpečnost provozu: zklidňování dopravy, měření rychlosti obecní policií. (str. 199, 2 tis. znaků)
+- [15.6 Obec jako provozovatel vozidla](kapitoly/15-doprava/15.06-obec-jako-provozovatel-vozidla.md): Obec jako provozovatel vozidla: objektivní odpovědnost provozovatele. (str. 199, 2 tis. znaků)
+- [15.7 Obec a veřejné služby v přepravě cestujících](kapitoly/15-doprava/15.07-obec-a-verejne-sluzby-v-preprave-cestujicich.md): Dopravní obslužnost a veřejné služby v přepravě cestujících. (str. 200, 5 tis. znaků)
+- [15.8 Podpora nízkoemisních vozidel](kapitoly/15-doprava/15.08-podpora-nizkoemisnich-vozidel.md): Podpora nízkoemisních vozidel: povinné podíly při nákupu vozidel (zákon o podpoře nízkoemisních vozidel). Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 200–202, 9 tis. znaků)
+
+## 16 V demokracii vzájemně komunikujeme
+
+- [16.1 Úvodem](kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.01-uvodem.md): Úvod ke kapitole o komunikaci s veřejností. (str. 203, 1 tis. znaků)
+- [16.2 Poskytování a zveřejňování informací obcemi](kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.02-poskytovani-a-zverejnovani-informaci-obcemi.md): Svobodný přístup k informacím (zákon č. 106/1999 Sb.): povinné subjekty, žádosti, lhůty, úhrady, odmítnutí, zveřejňování (registr smluv, dotace, rozpočty), výroční zpráva, informace o životním prostředí. (str. 203–209, 34 tis. znaků)
+- [16.3 Participace občanů na činnosti obce](kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.03-participace-obcanu-na-cinnosti-obce.md): Participace občanů: účast na zasedání zastupitelstva, právo nahlížet do dokumentů (zápisy, usnesení), podněty obecním orgánům. (str. 209–211, 11 tis. znaků)
+- [16.4 Práva zastupitele](kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.04-prava-zastupitele.md): Práva zastupitele (§ 82 zákona o obcích): předkládat návrhy, vznášet dotazy, právo na informace a lhůta 30 dnů. (str. 211–213, 13 tis. znaků)
+- [16.5 Radniční periodika](kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.05-radnicni-periodika.md): Radniční periodika: tiskový zákon, vyvážené informace, právo zastupitelů na prostor. (str. 213–214, 6 tis. znaků)
+- [16.6 Vyřizování petic a stížností](kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.06-vyrizovani-petic-a-stiznosti.md): Vyřizování petic a stížností: petice podle petičního zákona a zákona o obcích, stížnosti podle správního řádu a zákona o obcích. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 214–217, 13 tis. znaků)
+
+## 17 Kraje v České republice
+
+- [17.1 Základní legislativní vymezení krajů](kapitoly/17-kraje-v-ceske-republice/17.01-zakladni-legislativni-vymezeni-kraju.md): Úvod ke kapitole o krajích; legislativní vymezení krajů, NUTS/LAU, mapy a tabulka základních údajů o krajích. (str. 218–221, 9 tis. znaků)
+- [17.2 Činnost a kompetence krajů](kapitoly/17-kraje-v-ceske-republice/17.02-cinnost-a-kompetence-kraju.md): Činnost a kompetence krajů: bezpečnost, doprava, kultura, kontrola obcí, legislativa, regionální rozvoj, sociální služby, školství, zdravotnictví. (str. 221–222, 7 tis. znaků)
+- [17.3 Orgány kraje](kapitoly/17-kraje-v-ceske-republice/17.03-organy-kraje.md): Orgány kraje: zastupitelstvo, rada, hejtman, krajský úřad. (str. 222–223, 4 tis. znaků)
+- [17.4 Financování krajů](kapitoly/17-kraje-v-ceske-republice/17.04-financovani-kraju.md): Financování krajů: příjmy a výdaje, schéma rozpočtového určení daní od 1. 1. 2022 (převedeno na tabulku podílů kraje/obce/stát). (str. 223–224, 2 tis. znaků)
+- [17.5 Asociace krajů České republiky](kapitoly/17-kraje-v-ceske-republice/17.05-asociace-kraju-ceske-republiky.md): Asociace krajů ČR: cíle a orgány. (str. 223–224, 1 tis. znaků)
+- [17.6 Závěr a shrnutí](kapitoly/17-kraje-v-ceske-republice/17.06-zaver-a-shrnuti.md): Shrnutí kapitoly o krajích. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 224–225, 6 tis. znaků)
+
+## 18 Obce a Evropská unie
+
+- [18.1 Evropská unie a obec](kapitoly/18-obce-a-evropska-unie/18.01-evropska-unie-a-obec.md): Úvod ke kapitole o EU; Evropská unie a obec: principy, vazby samosprávy na EU. (str. 226, 3 tis. znaků)
+- [18.2 Dotace v životě obcí](kapitoly/18-obce-a-evropska-unie/18.02-dotace-v-zivote-obci.md): Evropské fondy (ESIF: ERDF, ESF, Fond soudržnosti, zemědělský fond) a další nástroje podpory. (str. 227–228, 7 tis. znaků)
+- [18.3 Pozitiva a úskalí dotací](kapitoly/18-obce-a-evropska-unie/18.03-pozitiva-a-uskali-dotaci.md): Výhody a úskalí dotací, doporučení pro žadatele. (str. 228–229, 6 tis. znaků)
+- [18.4 Výhled do blízké budoucnosti a průběh programového období 2021–2027](kapitoly/18-obce-a-evropska-unie/18.04-vyhled-do-blizke-budoucnosti-a-prubeh-programove.md): Programové období 2021–2027: analýza potřeb měst a obcí, procesní požadavky, podporované oblasti. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 229–232, 17 tis. znaků)
+
+## 19 Spolupráce obcí v České republice
+
+- [19.1 Sídelní struktura a výchozí pozice pro spolupráci obcí v České republice](kapitoly/19-spoluprace-obci-v-ceske-republice/19.01-sidelni-struktura-a-vychozi-pozice-pro-spoluprac.md): Úvod ke kapitole o spolupráci obcí; sídelní struktura ČR a fragmentace obcí, mapy typologie a osídlení. (str. 233–235, 6 tis. znaků)
+- [19.2 Formy spolupráce obcí v ČR](kapitoly/19-spoluprace-obci-v-ceske-republice/19.02-formy-spoluprace-obci-v-cr.md): Formy spolupráce obcí: svazek obcí (DSO), obchodní korporace, spolek, veřejnoprávní smlouvy (přenesená působnost). (str. 235–236, 7 tis. znaků)
+- [19.3 Spolupráce prostřednictvím profesionálně fungujících mikroregionů](kapitoly/19-spoluprace-obci-v-ceske-republice/19.03-spoluprace-prostrednictvim-profesionalne-funguji.md): Profesionálně fungující mikroregiony: projekt SMO, služby pro obce (dotační poradenství, GDPR, společné nákupy), financování. (str. 237–240, 21 tis. znaků)
+- [19.4 Spolupráce obcí prostřednictvím Místních akčních skupin](kapitoly/19-spoluprace-obci-v-ceske-republice/19.04-spoluprace-obci-prostrednictvim-mistnich-akcnich.md): Místní akční skupiny (MAS), metoda LEADER; mapa pokrytí ČR. (str. 240–241, 1 tis. znaků)
+- [19.5 Závěrem](kapitoly/19-spoluprace-obci-v-ceske-republice/19.05-zaverem.md): Závěr kapitoly o spolupráci obcí. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 241–243, 7 tis. znaků)
+
+## 20 Jak se vyznat v právních předpisech
+
+- [20.1 Obecný výklad](kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.01-obecny-vyklad.md): Úvod ke kapitole o právních předpisech; obecný výklad. (str. 244, 3 tis. znaků)
+- [20.2 Druhy právních předpisů, jejich tvorba a publikace](kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.02-druhy-pravnich-predpisu-jejich-tvorba-a-publikac.md): Druhy právních předpisů, legislativní proces a publikace ve Sbírce zákonů, právo EU. (str. 244–247, 18 tis. znaků)
+- [20.3 Hierarchie právních předpisů a vztahy mezi nimi](kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.03-hierarchie-pravnich-predpisu-a-vztahy-mezi-nimi.md): Hierarchie právních předpisů: právní síla a řešení rozporů mezi předpisy. (str. 247–248, 4 tis. znaků)
+- [20.4 Výklad právních předpisů](kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.04-vyklad-pravnich-predpisu.md): Výklad právních předpisů: metody výkladu. (str. 248–249, 8 tis. znaků)
+- [20.5 Výkladové pomůcky](kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.05-vykladove-pomucky.md): Výkladové pomůcky: judikatura, metodiky ministerstev, komentáře, Právní poradna pro obce. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 249–251, 9 tis. znaků)
+
+## 21 Politici a úředníci – partneři při správě obce
+
+- [21.1 Obecní úřad a jeho vztah k dalším orgánům obce](kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.01-obecni-urad-a-jeho-vztah-k-dalsim-organum-obce.md): Úvod ke kapitole o úřednících; obecní úřad a jeho vztah k ostatním orgánům obce. (str. 252, 3 tis. znaků)
+- [21.2 Úředníci územního samosprávného celku](kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.02-urednici-uzemniho-samospravneho-celku.md): Úředníci samosprávného celku: kdo je úředník, zákon o úřednících, základní povinnosti úředníka. (str. 252–253, 7 tis. znaků)
+- [21.3 Úkoly obecního úřadu v oblasti samostatné a přenesené působnosti](kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.03-ukoly-obecniho-uradu-v-oblasti-samostatne-a-pren.md): Úkoly obecního úřadu v samostatné a přenesené působnosti. (str. 253–254, 3 tis. znaků)
+- [21.4 Kompetence zastupitelů a vedoucího úřadu (tajemníka obecního úřadu)](kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.04-kompetence-zastupitelu-a-vedouciho-uradu-tajemni.md): Kompetence zastupitelů vs. tajemníka obecního úřadu, kdo komu ukládá úkoly. (str. 254–255, 6 tis. znaků)
+- [21.5 Spolupráce zastupitelů a úředníků na správě obce](kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.05-spoluprace-zastupitelu-a-uredniku-na-sprave-obce.md): Spolupráce zastupitelů a úředníků, komunikace. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 255–256, 6 tis. znaků)
+
+## 22 Ochrana osobních údajů – GDPR
+
+- [22.1 Úvod do ochrany osobních údajů](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.01-uvod-do-ochrany-osobnich-udaju.md): Úvod ke kapitole o GDPR; úvod do ochrany osobních údajů, zákon č. 110/2019 Sb. (str. 257, 3 tis. znaků)
+- [22.2 Základní práva dle nařízení GDPR](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.02-zakladni-prava-dle-narizeni-gdpr.md): Práva subjektů údajů podle GDPR. (str. 257–258, 1 tis. znaků)
+- [22.3 Působnost nařízení GDPR](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.03-pusobnost-narizeni-gdpr.md): Působnost GDPR: věcná, místní, časová. (str. 258, 3 tis. znaků)
+- [22.4 Základní zásady zpracování osobních údajů](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.04-zakladni-zasady-zpracovani-osobnich-udaju.md): Zásady zpracování osobních údajů: zákonnost, účelové omezení, minimalizace, odpovědnost správce. (str. 258–259, 2 tis. znaků)
+- [22.5 Osobní údaj](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.05-osobni-udaj.md): Co je osobní údaj: rodné číslo, úřední doklady. (str. 259–260, 10 tis. znaků)
+- [22.6 Zpracování osobních údajů](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.06-zpracovani-osobnich-udaju.md): Druhy zpracování osobních údajů, pseudonymizace. (str. 260–261, 6 tis. znaků)
+- [22.7 Právní titul ke zpracování osobních údajů](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.07-pravni-titul-ke-zpracovani-osobnich-udaju.md): Právní tituly zpracování (čl. 6 GDPR), zvláštní kategorie údajů. (str. 261–262, 3 tis. znaků)
+- [22.8 Právní tituly využívané obcemi při zpracování osobních údajů](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.08-pravni-tituly-vyuzivane-obcemi-pri-zpracovani-os.md): Právní tituly, které obce typicky využívají: smlouva, právní povinnost, veřejný zájem, životně důležitý zájem, souhlas. (str. 262, 2 tis. znaků)
+- [22.9 Zpracování údajů při plnění zákonných povinností obce](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.09-zpracovani-udaju-pri-plneni-zakonnych-povinnosti.md): Zpracování údajů při plnění zákonných povinností obce: zápisy ze zastupitelstva, zveřejňování, záznamy z jednání, sociální sítě. (str. 262–264, 10 tis. znaků)
+- [22.10 Oprávněný zájem obce na zpracování osobních údajů](kapitoly/22-ochrana-osobnich-udaju-gdpr/22.10-opravneny-zajem-obce-na-zpracovani-osobnich-udaj.md): Oprávněný zájem obce jako titul zpracování osobních údajů a příklady oprávněných zájmů obce. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 264–266, 6 tis. znaků)
+
+## 23 Elektronizace veřejné správy
+
+- [23.1 Právo na digitální službu](kapitoly/23-elektronizace-verejne-spravy/23.01-pravo-na-digitalni-sluzbu.md): Úvod ke kapitole o elektronizaci; právo na digitální službu, základní registry. (str. 267, 3 tis. znaků)
+- [23.2 DEPO](kapitoly/23-elektronizace-verejne-spravy/23.02-depo.md): Zákon DEPO (digitalizace) a jeho dopady na obce. (str. 267–268, 2 tis. znaků)
+- [23.3 Portál občana](kapitoly/23-elektronizace-verejne-spravy/23.03-portal-obcana.md): Portál občana, městské portály, oblíbené elektronické služby. (str. 268–269, 6 tis. znaků)
+- [23.4 Jak to bude fungovat](kapitoly/23-elektronizace-verejne-spravy/23.04-jak-to-bude-fungovat.md): Jak bude fungovat elektronická veřejná správa: identita, datové schránky. (str. 269, 2 tis. znaků)
+- [23.5 Stinné stránky elektronizace](kapitoly/23-elektronizace-verejne-spravy/23.05-stinne-stranky-elektronizace.md): Stinné stránky elektronizace: platnost elektronických podpisů, archivace. (str. 269, 2 tis. znaků)
+- [23.6 Pár slov závěrem](kapitoly/23-elektronizace-verejne-spravy/23.06-par-slov-zaverem.md): Závěr kapitoly o elektronizaci. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 269–270, 4 tis. znaků)
+
+## 24 Kybernetická a informační bezpečnost
+
+- [24.1 Úvod do kybernetické a informační bezpečnosti](kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.01-uvod-do-kyberneticke-a-informacni-bezpecnosti.md): Úvod do kybernetické a informační bezpečnosti. (str. 271, 3 tis. znaků)
+- [24.2 Kybernetická a informační bezpečnost v souvislostech](kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.02-kyberneticka-a-informacni-bezpecnost-v-souvislos.md): Souvislosti: od dat k rozhodnutí (schéma), motivace útočníků (peníze, hacktivismus, špionáž). (str. 271–273, 7 tis. znaků)
+- [24.3 Legislativa](kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.03-legislativa.md): Legislativa: zákon č. 181/2014 Sb. o kybernetické bezpečnosti, vyhláška č. 82/2018 Sb. (str. 273, 3 tis. znaků)
+- [24.4 Praktická realizace z pohledu obce](kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.04-prakticka-realizace-z-pohledu-obce.md): Praktická realizace v obci: zmapování situace, řízení aktiv a rizik, organizační a technická opatření, řízení dodavatelů. (str. 273–276, 16 tis. znaků)
+- [24.5 Co nedělat](kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.05-co-nedelat.md): Co nedělat: základní bezpečnostní zásady pro uživatele (hesla, e-maily, přílohy). (str. 276–277, 4 tis. znaků)
+- [24.6 Shrnutí](kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.06-shrnuti.md): Shrnutí: výběr opatření podle analýzy rizik. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 277–278, 3 tis. znaků)
+
+## 25 Whistleblowing
+
+- [25.1 Přímý účinek směrnic aneb proč je třeba dodržovat pravidla, i když chybí český prováděcí zákon](kapitoly/25-whistleblowing/25.01-primy-ucinek-smernic-aneb-proc-je-treba-dodrzova.md): Úvod ke kapitole o whistleblowingu; přímý účinek směrnice EU 2019/1937 při chybějícím českém zákoně (stav 2022, zákon byl přijat až 2023). (str. 279–280, 5 tis. znaků)
+- [25.2 Hlavní prvky Směrnice](kapitoly/25-whistleblowing/25.02-hlavni-prvky-smernice.md): Hlavní prvky směrnice o ochraně oznamovatelů. (str. 280, 955 znaků)
+- [25.3 Působnost Směrnice, neboli koho se směrnice týká a na jaké oblasti se vztahuje](kapitoly/25-whistleblowing/25.03-pusobnost-smernice-neboli-koho-se-smernice-tyka.md): Koho se směrnice týká a na jaké oblasti práva se vztahuje. (str. 280–281, 4 tis. znaků)
+- [25.4 Co je interní kanál pro oznamování a kdo má povinnost ho zavést](kapitoly/25-whistleblowing/25.04-co-je-interni-kanal-pro-oznamovani-a-kdo-ma-povi.md): Interní oznamovací kanál: kdo jej musí zavést (obce nad 10 000 obyvatel), lhůty. (str. 281, 5 tis. znaků)
+- [25.5 Externí kanál pro oznamování](kapitoly/25-whistleblowing/25.05-externi-kanal-pro-oznamovani.md): Externí oznamovací kanál. (str. 282, 2 tis. znaků)
+- [25.6 Zveřejňování](kapitoly/25-whistleblowing/25.06-zverejnovani.md): Zveřejnění oznámení a podmínky ochrany. (str. 282, 874 znaků)
+- [25.7 Ochranná a podpůrná opatření](kapitoly/25-whistleblowing/25.07-ochranna-a-podpurna-opatreni.md): Ochranná a podpůrná opatření, zákaz odvetných opatření. (str. 282, 2 tis. znaků)
+- [25.8 Sankce](kapitoly/25-whistleblowing/25.08-sankce.md): Sankce za porušení. (str. 282, 1 tis. znaků)
+- [25.9 Závěr](kapitoly/25-whistleblowing/25.09-zaver.md): Závěr: co z toho pro obce plyne. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce. (str. 282–284, 6 tis. znaků)
+
+## Tiráž
+
+- [Na příručce spolupracovali](kapitoly/26-na-prirucce-spolupracovali.md): Seznam autorů kapitol, oponentů a editorů příručky. (str. 285–288, 4 tis. znaků)
+
+## Celý text
+
+- [prirucka-cela.md](prirucka-cela.md): celá příručka v jednom souboru (pro nástroje, které si soubor indexují samy, např. NotebookLM nebo projekty v Claude/ChatGPT).

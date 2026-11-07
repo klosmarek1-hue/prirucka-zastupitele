@@ -1,0 +1,1712 @@
+[
+ {
+  "cislo": "0",
+  "nazev": "Předmluva",
+  "kapitola": "0",
+  "nazev_kapitoly": "Předmluva",
+  "strany_v_pdf": "4",
+  "soubor": "kapitoly/00-predmluva.md",
+  "znaku": 2889,
+  "popis": "Úvodní slovo předsedy SMO ČR: smysl příručky, aktualizace kapitol, vzdělávací projekt ESO."
+ },
+ {
+  "cislo": "1",
+  "nazev": "Svaz měst a obcí ČR prosazuje vaše zájmy",
+  "kapitola": "1",
+  "nazev_kapitoly": "Svaz měst a obcí ČR prosazuje vaše zájmy",
+  "strany_v_pdf": "10–12",
+  "soubor": "kapitoly/01-svaz-mest-a-obci-cr-prosazuje-vase-zajmy.md",
+  "znaku": 12897,
+  "popis": "Kdo je Svaz měst a obcí ČR, jeho cíle, projekty, komory a organizační struktura (schéma převedeno na text)."
+ },
+ {
+  "cislo": "2.1",
+  "nazev": "Postavení obce v systému veřejné správy",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "13",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.01-postaveni-obce-v-systemu-verejne-spravy.md",
+  "znaku": 2846,
+  "popis": "Úvod kapitoly a ústavní postavení obce: počet obcí, zákon o obcích, Ústava, Evropská charta místní samosprávy."
+ },
+ {
+  "cislo": "2.2",
+  "nazev": "Veřejná správa",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "13–14",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.02-verejna-sprava.md",
+  "znaku": 5483,
+  "popis": "Veřejná správa: státní správa vs. samospráva, obce jako vykonavatelé státní správy (přenesená působnost); schéma členění veřejné správy."
+ },
+ {
+  "cislo": "2.3",
+  "nazev": "Základní znaky obce",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "15–18",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.03-zakladni-znaky-obce.md",
+  "znaku": 19902,
+  "popis": "Obec jako veřejnoprávní korporace: území a jeho změny, občané obce, samostatná a přenesená působnost, typy obcí (I.–III. typ, ORP, pověřený úřad)."
+ },
+ {
+  "cislo": "2.4",
+  "nazev": "Orgány obce a jejich vzájemné vztahy",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "18–26",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.04-organy-obce-a-jejich-vzajemne-vztahy.md",
+  "znaku": 48540,
+  "popis": "Orgány obce: zastupitelstvo (práva a povinnosti členů, vyhrazené pravomoci, jednání, jednací řád, usnášeníschopnost, výbory), rada, starosta, místostarosta, obecní úřad, komise. Nejdelší podkapitola; časté otázky."
+ },
+ {
+  "cislo": "2.5",
+  "nazev": "Odměňování",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "26–28",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.05-odmenovani.md",
+  "znaku": 12734,
+  "popis": "Odměňování zastupitelů: uvolnění a neuvolnění členové, měsíční odměny ze zákona, nařízení vlády, souběh funkcí, mimořádné odměny; časté otázky."
+ },
+ {
+  "cislo": "2.6",
+  "nazev": "Právní předpisy obce",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "28–32",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.06-pravni-predpisy-obce.md",
+  "znaku": 20710,
+  "popis": "Právní předpisy obce: obecně závazné vyhlášky (samostatná působnost) a nařízení (přenesená působnost), vydávání, vyhlašování, účinnost, dozor ministerstva vnitra; časté otázky."
+ },
+ {
+  "cislo": "2.7",
+  "nazev": "Principy dobré veřejné správy uplatňované v rámci samosprávy",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "32–33",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.07-principy-dobre-verejne-spravy-uplatnovane-v-ramc.md",
+  "znaku": 8152,
+  "popis": "Principy dobré správy a etický kodex zastupitele: co by zastupitel měl a neměl dělat."
+ },
+ {
+  "cislo": "2.8",
+  "nazev": "Volby do zastupitelstev obcí",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "33–35",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.08-volby-do-zastupitelstev-obci.md",
+  "znaku": 10458,
+  "popis": "Volby do zastupitelstev obcí: vznik mandátu, slib, neslučitelnost funkcí, zánik mandátu, náhradníci; časté otázky."
+ },
+ {
+  "cislo": "2.9",
+  "nazev": "Místní referendum",
+  "kapitola": "2",
+  "nazev_kapitoly": "Základní principy fungování obce a jejích orgánů",
+  "strany_v_pdf": "35–37",
+  "soubor": "kapitoly/02-zakladni-principy-fungovani-obce-a-jejic/02.09-mistni-referendum.md",
+  "znaku": 10961,
+  "popis": "Místní referendum: kdo jej může iniciovat, o čem se nesmí konat, platnost a závaznost výsledku. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "3.1",
+  "nazev": "Politická a právní odpovědnost zastupitelů – základní rozlišení a úvod do problému",
+  "kapitola": "3",
+  "nazev_kapitoly": "Odpovědnost zastupitelů",
+  "strany_v_pdf": "38",
+  "soubor": "kapitoly/03-odpovednost-zastupitelu/03.01-politicka-a-pravni-odpovednost-zastupitelu-zakla.md",
+  "znaku": 2861,
+  "popis": "Úvod ke kapitole o odpovědnosti: rozdíl mezi politickou a právní odpovědností zastupitelů."
+ },
+ {
+  "cislo": "3.2",
+  "nazev": "Základní právní povinnosti člena zastupitelstva obce",
+  "kapitola": "3",
+  "nazev_kapitoly": "Odpovědnost zastupitelů",
+  "strany_v_pdf": "38–46",
+  "soubor": "kapitoly/03-odpovednost-zastupitelu/03.02-zakladni-pravni-povinnosti-clena-zastupitelstva.md",
+  "znaku": 46571,
+  "popis": "Právní odpovědnost zastupitele: péče řádného hospodáře, střet zájmů a oznamování, neslučitelnost funkcí, odpovědnost za škodu, předsmluvní odpovědnost, trestní odpovědnost, vymáhání náhrady škody, pojištění odpovědnosti. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "4.1",
+  "nazev": "Rozpočet a pravidla rozpočtové odpovědnosti",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "47–48",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.01-rozpocet-a-pravidla-rozpoctove-odpovednosti.md",
+  "znaku": 9535,
+  "popis": "Úvod ke kapitole o financích a pravidla rozpočtové odpovědnosti: dopady covidu na rozpočty, zadlužení, střednědobý výhled rozpočtu."
+ },
+ {
+  "cislo": "4.2",
+  "nazev": "Rozpočtový proces",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "48–51",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.02-rozpoctovy-proces.md",
+  "znaku": 19147,
+  "popis": "Rozpočtový proces: sestavení a schválení rozpočtu, zveřejňování, rozpočtové provizorium, rozpočtová opatření, peněžní fondy, závěrečný účet."
+ },
+ {
+  "cislo": "4.3",
+  "nazev": "Vlastní příjmy vždy nejistě jisté",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "52–58",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.03-vlastni-prijmy-vzdy-nejiste-jiste.md",
+  "znaku": 34803,
+  "popis": "Příjmy obce: rozpočtové určení daní (RUD), daň z nemovitých věcí a místní koeficienty, místní poplatky (ze psů, z pobytu, za veřejné prostranství, ze vstupného, za odpady), nedaňové příjmy."
+ },
+ {
+  "cislo": "4.4",
+  "nazev": "Dotace – peníze, které nejsou zadarmo",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "58–60",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.04-dotace-penize-ktere-nejsou-zadarmo.md",
+  "znaku": 9910,
+  "popis": "Dotace: příspěvek na výkon státní správy, dotace ze státního rozpočtu a EU, obec jako poskytovatel dotací (veřejnoprávní smlouva, program)."
+ },
+ {
+  "cislo": "4.5",
+  "nazev": "Výdaje, výdaje, výdaje",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "60",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.05-vydaje-vydaje-vydaje.md",
+  "znaku": 3088,
+  "popis": "Výdaje obce: běžné a kapitálové výdaje, priority, provozní náklady investic."
+ },
+ {
+  "cislo": "4.6",
+  "nazev": "Když se obec zadluží",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "60–61",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.06-kdyz-se-obec-zadluzi.md",
+  "znaku": 4122,
+  "popis": "Zadlužení obce: úvěry, zápůjčky, návratná finanční výpomoc, komunální dluhopisy, pravidlo rozpočtové odpovědnosti."
+ },
+ {
+  "cislo": "4.7",
+  "nazev": "Účetnictví a výkaznictví někdy také ve službách obce",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "61–62",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.07-ucetnictvi-a-vykaznictvi-nekdy-take-ve-sluzbach.md",
+  "znaku": 5954,
+  "popis": "Účetnictví a výkaznictví obce: vybrané účetní jednotky, účetní závěrka a její schvalování, výkazy."
+ },
+ {
+  "cislo": "4.8",
+  "nazev": "Kontrola (včera) dnes a zítra",
+  "kapitola": "4",
+  "nazev_kapitoly": "Finance a rozpočet",
+  "strany_v_pdf": "62–65",
+  "soubor": "kapitoly/04-finance-a-rozpocet/04.08-kontrola-vcera-dnes-a-zitra.md",
+  "znaku": 14668,
+  "popis": "Kontrola hospodaření: přezkoumání hospodaření (krajský úřad nebo auditor), finanční kontrola, voličská kontrola. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "5.1",
+  "nazev": "Základní principy",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "66",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.01-zakladni-principy.md",
+  "znaku": 2876,
+  "popis": "Úvod ke kapitole o majetku obce: základní principy hospodaření s obecním majetkem (§ 35 a násl. zákona o obcích)."
+ },
+ {
+  "cislo": "5.2",
+  "nazev": "Majetek obcí a jeho možné třídění",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "66–68",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.02-majetek-obci-a-jeho-mozne-trideni.md",
+  "znaku": 8413,
+  "popis": "Druhy obecního majetku (movité a nemovité věci, veřejné prostranství) a způsoby jeho nabývání."
+ },
+ {
+  "cislo": "5.3",
+  "nazev": "Přímá a nepřímá správa obecního majetku",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "68",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.03-prima-a-neprima-sprava-obecniho-majetku.md",
+  "znaku": 3087,
+  "popis": "Přímá a nepřímá správa majetku: organizační složky, příspěvkové organizace, obchodní společnosti obce."
+ },
+ {
+  "cislo": "5.4",
+  "nazev": "Povinnosti při hospodaření s obecním majetkem",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "68–70",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.04-povinnosti-pri-hospodareni-s-obecnim-majetkem.md",
+  "znaku": 11157,
+  "popis": "Povinnosti při hospodaření s majetkem: účelnost a hospodárnost, péče řádného hospodáře, ochrana majetku; časté otázky."
+ },
+ {
+  "cislo": "5.5",
+  "nazev": "Cena obvyklá",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "70–71",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.05-cena-obvykla.md",
+  "znaku": 4193,
+  "popis": "Cena obvyklá při prodeji a pronájmu majetku obce, odchylky a jejich zdůvodnění; časté otázky."
+ },
+ {
+  "cislo": "5.6",
+  "nazev": "Povinnost zveřejnit záměr",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "71–72",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.06-povinnost-zverejnit-zamer.md",
+  "znaku": 9929,
+  "popis": "Zveřejnění záměru (§ 39 zákona o obcích): kdy je povinné, náležitosti, úřední deska, 15 dní, výjimky, výběr z nabídek; časté otázky."
+ },
+ {
+  "cislo": "5.7",
+  "nazev": "Rozhodnutí orgánu obce o majetkové dispozici",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "73–77",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.07-rozhodnuti-organu-obce-o-majetkove-dispozici.md",
+  "znaku": 15964,
+  "popis": "Kdo v obci rozhoduje o majetkových dispozicích: vyhrazené pravomoci zastupitelstva vs. rada a starosta, obce bez rady; navigační tabulka právních jednání (koupě, dar, směna, nájem, výpůjčka, věcná břemena…), náležitosti usnesení."
+ },
+ {
+  "cislo": "5.8",
+  "nazev": "Uzavření smlouvy",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "78",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.08-uzavreni-smlouvy.md",
+  "znaku": 2928,
+  "popis": "Uzavření smlouvy: podpis starostou, doložka o splnění podmínek platnosti."
+ },
+ {
+  "cislo": "5.9",
+  "nazev": "Zveřejňování smluv v registru smluv",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "78",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.09-zverejnovani-smluv-v-registru-smluv.md",
+  "znaku": 2311,
+  "popis": "Zveřejňování smluv v registru smluv: povinnost od 1. 7. 2016, výjimky, následky nezveřejnění."
+ },
+ {
+  "cislo": "5.10",
+  "nazev": "Kontrola hospodaření",
+  "kapitola": "5",
+  "nazev_kapitoly": "Hospodaření s majetkem obce",
+  "strany_v_pdf": "78–81",
+  "soubor": "kapitoly/05-hospodareni-s-majetkem-obce/05.10-kontrola-hospodareni.md",
+  "znaku": 13622,
+  "popis": "Vnitřní a vnější kontrola hospodaření s majetkem. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "6.1",
+  "nazev": "Úvod do veřejných zakázek a základní pojmy",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "82–83",
+  "soubor": "kapitoly/06-verejne-zakazky/06.01-uvod-do-verejnych-zakazek-a-zakladni-pojmy.md",
+  "znaku": 6932,
+  "popis": "Úvod do veřejných zakázek: zákon o zadávání veřejných zakázek (ZZVZ), zadavatel, druhy zakázek, zásady zadávání."
+ },
+ {
+  "cislo": "6.2",
+  "nazev": "Předpokládaná hodnota",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "83–84",
+  "soubor": "kapitoly/06-verejne-zakazky/06.02-predpokladana-hodnota.md",
+  "znaku": 4138,
+  "popis": "Předpokládaná hodnota zakázky: jak ji stanovit, sčítání plnění, příklad chybného stanovení."
+ },
+ {
+  "cislo": "6.3",
+  "nazev": "Režimy veřejných zakázek a druhy zadávacích řízení",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "84–85",
+  "soubor": "kapitoly/06-verejne-zakazky/06.03-rezimy-verejnych-zakazek-a-druhy-zadavacich-rize.md",
+  "znaku": 5003,
+  "popis": "Režimy zakázek a finanční limity (malý rozsah do 2 mil. / 6 mil. Kč, podlimitní, nadlimitní; tabulka limitů 2022), druhy zadávacích řízení."
+ },
+ {
+  "cislo": "6.4",
+  "nazev": "Proces veřejných zakázek",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "85–86",
+  "soubor": "kapitoly/06-verejne-zakazky/06.04-proces-verejnych-zakazek.md",
+  "znaku": 6799,
+  "popis": "Průběh zadávání: zakázky malého rozsahu (výběrové řízení, vnitřní směrnice) vs. zadávací řízení."
+ },
+ {
+  "cislo": "6.5",
+  "nazev": "Kritéria k hodnocení",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "86",
+  "soubor": "kapitoly/06-verejne-zakazky/06.05-kriteria-k-hodnoceni.md",
+  "znaku": 2561,
+  "popis": "Hodnocení nabídek: ekonomická výhodnost, kritéria kvality, nejen nejnižší cena."
+ },
+ {
+  "cislo": "6.6",
+  "nazev": "Uveřejňování",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "86–87",
+  "soubor": "kapitoly/06-verejne-zakazky/06.06-uverejnovani.md",
+  "znaku": 3684,
+  "popis": "Uveřejňování: profil zadavatele, smlouvy nad 500 000 Kč, skutečně uhrazená cena."
+ },
+ {
+  "cislo": "6.7",
+  "nazev": "Elektronizace ve veřejných zakázkách",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "87",
+  "soubor": "kapitoly/06-verejne-zakazky/06.07-elektronizace-ve-verejnych-zakazkach.md",
+  "znaku": 2638,
+  "popis": "Elektronizace zadávání: elektronická komunikace a podávání nabídek, elektronické nástroje."
+ },
+ {
+  "cislo": "6.8",
+  "nazev": "Sankce proti Rusku a Bělorusku",
+  "kapitola": "6",
+  "nazev_kapitoly": "Veřejné zakázky",
+  "strany_v_pdf": "87–90",
+  "soubor": "kapitoly/06-verejne-zakazky/06.08-sankce-proti-rusku-a-belorusku.md",
+  "znaku": 13499,
+  "popis": "Sankce proti Rusku a Bělorusku ve veřejných zakázkách: zákaz zadání dotčeným dodavatelům, doporučení pro zadavatele. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "7.1",
+  "nazev": "Strategické plánování",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "91–98",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.01-strategicke-planovani.md",
+  "znaku": 36176,
+  "popis": "Strategické plánování obce: program rozvoje obce (PRO), struktura PRO (schéma), analýzy PESTLE a SWOT, akční plán, ukazatele, databáze strategií, model strategického řízení."
+ },
+ {
+  "cislo": "7.2",
+  "nazev": "Strategie v plánování a řízení a úředníci",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "98",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.02-strategie-v-planovani-a-rizeni-a-urednici.md",
+  "znaku": 1234,
+  "popis": "Role úředníků při přípravě a naplňování strategie."
+ },
+ {
+  "cislo": "7.3",
+  "nazev": "Provázání strategického plánu s rozpočtem obce",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "98",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.03-provazani-strategickeho-planu-s-rozpoctem-obce.md",
+  "znaku": 1274,
+  "popis": "Provázání strategie s rozpočtem obce a rozpočtovým výhledem."
+ },
+ {
+  "cislo": "7.4",
+  "nazev": "Projektové řízení obce",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "99",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.04-projektove-rizeni-obce.md",
+  "znaku": 3429,
+  "popis": "Projektové řízení obce: investiční a neinvestiční projekty."
+ },
+ {
+  "cislo": "7.5",
+  "nazev": "Jednotlivé fáze životního cyklu projektu",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "99–101",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.05-jednotlive-faze-zivotniho-cyklu-projektu.md",
+  "znaku": 11883,
+  "popis": "Životní cyklus projektu: předprojektová, realizační a provozní fáze, studie proveditelnosti (ukázková osnova), harmonogram, rozpočet, indikátory, udržitelnost."
+ },
+ {
+  "cislo": "7.6",
+  "nazev": "Územní plánování",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "102",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.06-uzemni-planovani.md",
+  "znaku": 3686,
+  "popis": "Úvod do územního plánování: proč jsou procesy dlouhé, role obce."
+ },
+ {
+  "cislo": "7.7",
+  "nazev": "Systém územního plánování",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "102",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.07-system-uzemniho-planovani.md",
+  "znaku": 1168,
+  "popis": "Systém územního plánování: nástroje, aktéři, proces."
+ },
+ {
+  "cislo": "7.8",
+  "nazev": "Nástroje územního plánování",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "102–103",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.08-nastroje-uzemniho-planovani.md",
+  "znaku": 5239,
+  "popis": "Nástroje územního plánování: územně plánovací podklady, politika územního rozvoje, územně plánovací dokumentace."
+ },
+ {
+  "cislo": "7.9",
+  "nazev": "Zásady územního rozvoje kraje",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "103–104",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.09-zasady-uzemniho-rozvoje-kraje.md",
+  "znaku": 2253,
+  "popis": "Zásady územního rozvoje kraje."
+ },
+ {
+  "cislo": "7.10",
+  "nazev": "Územní plán obce",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "104–106",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.10-uzemni-plan-obce.md",
+  "znaku": 15920,
+  "popis": "Územní plán obce: pořízení a vydání, regulační plán, územní rozhodnutí, územní řízení, stavební uzávěra, asanace území."
+ },
+ {
+  "cislo": "7.11",
+  "nazev": "Úprava vztahů v území",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "106–107",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.11-uprava-vztahu-v-uzemi.md",
+  "znaku": 1027,
+  "popis": "Úprava vztahů v území: předkupní právo obce, náhrady za změnu v území."
+ },
+ {
+  "cislo": "7.12",
+  "nazev": "Působnost ve věcech územního plánování",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "107",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.12-pusobnost-ve-vecech-uzemniho-planovani.md",
+  "znaku": 4447,
+  "popis": "Kdo vykonává působnost v územním plánování: ORP jako pořizovatel, stavební úřad, zastupitelstvo a rada obce."
+ },
+ {
+  "cislo": "7.13",
+  "nazev": "Procesy územního plánování",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "107–111",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.13-procesy-uzemniho-planovani.md",
+  "znaku": 21247,
+  "popis": "Proces pořízení územního plánu krok za krokem: rozhodnutí o pořízení, zadání, návrh, společné a veřejné projednání, námitky a připomínky."
+ },
+ {
+  "cislo": "7.14",
+  "nazev": "Závěrem",
+  "kapitola": "7",
+  "nazev_kapitoly": "Územní a strategické plánování rozvoje obce",
+  "strany_v_pdf": "111–113",
+  "soubor": "kapitoly/07-uzemni-a-strategicke-planovani-rozvoje-o/07.14-zaverem.md",
+  "znaku": 10356,
+  "popis": "Závěr kapitoly o plánování; poslední kroky pořízení územního plánu, metodiky. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "8.1",
+  "nazev": "Úvod",
+  "kapitola": "8",
+  "nazev_kapitoly": "Veřejné služby",
+  "strany_v_pdf": "114–115",
+  "soubor": "kapitoly/08-verejne-sluzby/08.01-uvod.md",
+  "znaku": 7407,
+  "popis": "Úvod do veřejných služeb: pojmy a kategorie, veřejný zájem, kdo je zajišťuje."
+ },
+ {
+  "cislo": "8.2",
+  "nazev": "Dostupnost veřejných služeb",
+  "kapitola": "8",
+  "nazev_kapitoly": "Veřejné služby",
+  "strany_v_pdf": "115",
+  "soubor": "kapitoly/08-verejne-sluzby/08.02-dostupnost-verejnych-sluzeb.md",
+  "znaku": 2724,
+  "popis": "Dostupnost veřejných služeb: fyzická, časová, finanční."
+ },
+ {
+  "cislo": "8.3",
+  "nazev": "Veřejné služby zajišťované obcí ze zákona",
+  "kapitola": "8",
+  "nazev_kapitoly": "Veřejné služby",
+  "strany_v_pdf": "116",
+  "soubor": "kapitoly/08-verejne-sluzby/08.03-verejne-sluzby-zajistovane-obci-ze-zakona.md",
+  "znaku": 6215,
+  "popis": "Veřejné služby, které musí obec zajistit ze zákona (školy, odpady, voda, požární ochrana, sociální služby aj.), subsidiarita."
+ },
+ {
+  "cislo": "8.4",
+  "nazev": "Další veřejné služby zajišťované obcí",
+  "kapitola": "8",
+  "nazev_kapitoly": "Veřejné služby",
+  "strany_v_pdf": "117–119",
+  "soubor": "kapitoly/08-verejne-sluzby/08.04-dalsi-verejne-sluzby-zajistovane-obci.md",
+  "znaku": 10652,
+  "popis": "Další služby, které obec může poskytovat: obecní policie, veřejné osvětlení a další. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "9.1",
+  "nazev": "Obecně závazné vyhlášky o veřejném pořádku",
+  "kapitola": "9",
+  "nazev_kapitoly": "Veřejný pořádek a bezpečnost",
+  "strany_v_pdf": "120–122",
+  "soubor": "kapitoly/09-verejny-poradek-a-bezpecnost/09.01-obecne-zavazne-vyhlasky-o-verejnem-poradku.md",
+  "znaku": 9601,
+  "popis": "Úvod ke kapitole o veřejném pořádku; obecně závazné vyhlášky o veřejném pořádku: co lze a nelze regulovat (noční klid, alkohol, psi, herní prostory), judikatura; nařízení o tržním řádu."
+ },
+ {
+  "cislo": "9.2",
+  "nazev": "Přestupky",
+  "kapitola": "9",
+  "nazev_kapitoly": "Veřejný pořádek a bezpečnost",
+  "strany_v_pdf": "122–123",
+  "soubor": "kapitoly/09-verejny-poradek-a-bezpecnost/09.02-prestupky.md",
+  "znaku": 8249,
+  "popis": "Přestupky: druhy, přestupky proti veřejnému pořádku, kdo je projednává, veřejnoprávní smlouva o projednávání přestupků, co může dělat zastupitel."
+ },
+ {
+  "cislo": "9.3",
+  "nazev": "Obecní policie",
+  "kapitola": "9",
+  "nazev_kapitoly": "Veřejný pořádek a bezpečnost",
+  "strany_v_pdf": "123",
+  "soubor": "kapitoly/09-verejny-poradek-a-bezpecnost/09.03-obecni-policie.md",
+  "znaku": 2376,
+  "popis": "Obecní policie: zřízení vyhláškou, řízení starostou, oprávnění strážníků."
+ },
+ {
+  "cislo": "9.4",
+  "nazev": "Spolupráce obcí a Policie ČR",
+  "kapitola": "9",
+  "nazev_kapitoly": "Veřejný pořádek a bezpečnost",
+  "strany_v_pdf": "123–124",
+  "soubor": "kapitoly/09-verejny-poradek-a-bezpecnost/09.04-spoluprace-obci-a-policie-cr.md",
+  "znaku": 2054,
+  "popis": "Spolupráce obce s Policií ČR: koordinační dohoda."
+ },
+ {
+  "cislo": "9.5",
+  "nazev": "Shromažďování občanů",
+  "kapitola": "9",
+  "nazev_kapitoly": "Veřejný pořádek a bezpečnost",
+  "strany_v_pdf": "124–127",
+  "soubor": "kapitoly/09-verejny-poradek-a-bezpecnost/09.05-shromazdovani-obcanu.md",
+  "znaku": 16021,
+  "popis": "Shromažďování občanů: zákon o právu shromažďovacím, oznámení shromáždění, rozpuštění, akce typu technoparty. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "10.1",
+  "nazev": "Stručná historie krizového řízení v České republice",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "128–129",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.01-strucna-historie-krizoveho-rizeni-v-ceske-republ.md",
+  "znaku": 5056,
+  "popis": "Úvod a historie krizového řízení v ČR."
+ },
+ {
+  "cislo": "10.2",
+  "nazev": "Legislativní architektura krizového řízení",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "129",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.02-legislativni-architektura-krizoveho-rizeni.md",
+  "znaku": 1850,
+  "popis": "Legislativní architektura krizového řízení (schéma zákonů převedeno na text)."
+ },
+ {
+  "cislo": "10.3",
+  "nazev": "Mimořádná událost, krizová situace, krizové stavy",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "129–131",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.03-mimoradna-udalost-krizova-situace-krizove-stavy.md",
+  "znaku": 6765,
+  "popis": "Mimořádná událost, krizová situace a krizové stavy (stav nebezpečí, nouzový stav, stav ohrožení státu, válečný stav): kdo je vyhlašuje, na jak dlouho; tabulky rizik a krizových stavů."
+ },
+ {
+  "cislo": "10.4",
+  "nazev": "Orgány krizového řízení a jejich základní povinnosti",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "131–133",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.04-organy-krizoveho-rizeni-a-jejich-zakladni-povinn.md",
+  "znaku": 8518,
+  "popis": "Orgány krizového řízení na úrovni státu, kraje, ORP a obce; povinnosti starosty za krizového stavu, krizový štáb; graf důvodů vyhlášení stavů nebezpečí; tabulka krizových a havarijních plánů."
+ },
+ {
+  "cislo": "10.5",
+  "nazev": "Základy krizového plánování",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "133–134",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.05-zaklady-krizoveho-planovani.md",
+  "znaku": 5226,
+  "popis": "Krizové plánování: krizový plán, havarijní plán, vnější havarijní plán, zóny havarijního plánování."
+ },
+ {
+  "cislo": "10.6",
+  "nazev": "Ochrana obyvatelstva",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "134–136",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.06-ochrana-obyvatelstva.md",
+  "znaku": 8841,
+  "popis": "Ochrana obyvatelstva: varování, evakuace, ukrytí, individuální ochrana, nouzové přežití; schéma civilní ochrany a obrany; úkoly starosty."
+ },
+ {
+  "cislo": "10.7",
+  "nazev": "Integrovaný záchranný systém",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "136–138",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.07-integrovany-zachranny-system.md",
+  "znaku": 6698,
+  "popis": "Integrovaný záchranný systém (IZS): základní a ostatní složky, koordinace zásahu."
+ },
+ {
+  "cislo": "10.8",
+  "nazev": "Ochrana před povodněmi",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "138–141",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.08-ochrana-pred-povodnemi.md",
+  "znaku": 14518,
+  "popis": "Ochrana před povodněmi: povodňové orgány a komise obce, povodňový plán, stupně povodňové aktivity, předpovědní a hlásná služba, výstrahy ČHMÚ; tabulky opatření a orgánů."
+ },
+ {
+  "cislo": "10.9",
+  "nazev": "Hospodářská opatření pro krizové stavy",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "141–142",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.09-hospodarska-opatreni-pro-krizove-stavy.md",
+  "znaku": 7742,
+  "popis": "Hospodářská opatření pro krizové stavy: Správa státních hmotných rezerv, humanitární pomoc, nouzové zásobování vodou, regulační opatření."
+ },
+ {
+  "cislo": "10.10",
+  "nazev": "Finanční zajištění krizového řízení, obnova území postiženého živelní pohromou",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "143–144",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.10-financni-zajisteni-krizoveho-rizeni-obnova-uzemi.md",
+  "znaku": 7659,
+  "popis": "Financování krizového řízení a státní pomoc při obnově území po živelní pohromě."
+ },
+ {
+  "cislo": "10.11",
+  "nazev": "Zajišťování obrany České republiky",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "144–146",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.11-zajistovani-obrany-ceske-republiky.md",
+  "znaku": 8050,
+  "popis": "Zajišťování obrany ČR: povinnosti krajů, ORP a obcí; tabulka povinností."
+ },
+ {
+  "cislo": "10.12",
+  "nazev": "Požární ochrana u obcí",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "146",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.12-pozarni-ochrana-u-obci.md",
+  "znaku": 2041,
+  "popis": "Požární ochrana v obci: jednotka sboru dobrovolných hasičů (JSDH) vs. sbor dobrovolných hasičů (spolek)."
+ },
+ {
+  "cislo": "10.13",
+  "nazev": "Vybrané základní pojmy požární ochrany",
+  "kapitola": "10",
+  "nazev_kapitoly": "Krizové řízení v České republice",
+  "strany_v_pdf": "146–150",
+  "soubor": "kapitoly/10-krizove-rizeni-v-ceske-republice/10.13-vybrane-zakladni-pojmy-pozarni-ochrany.md",
+  "znaku": 20422,
+  "popis": "Pojmy požární ochrany: kategorie jednotek, početní stavy JSDH, akceschopnost, dotace, úlohy obce. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "11.1",
+  "nazev": "Úvod do problematiky sociální politiky",
+  "kapitola": "11",
+  "nazev_kapitoly": "Sociální problematika a role obce",
+  "strany_v_pdf": "151–154",
+  "soubor": "kapitoly/11-socialni-problematika-a-role-obce/11.01-uvod-do-problematiky-socialni-politiky.md",
+  "znaku": 14555,
+  "popis": "Úvod do sociální politiky: podstata, principy, kvalita života, sociální práce a její cílové skupiny."
+ },
+ {
+  "cislo": "11.2",
+  "nazev": "Systém sociální péče, pomoci a podpory v České republice",
+  "kapitola": "11",
+  "nazev_kapitoly": "Sociální problematika a role obce",
+  "strany_v_pdf": "154–158",
+  "soubor": "kapitoly/11-socialni-problematika-a-role-obce/11.02-system-socialni-pece-pomoci-a-podpory-v-ceske-re.md",
+  "znaku": 20470,
+  "popis": "Systém sociálního zabezpečení: sociální pojištění, státní sociální podpora, hmotná nouze, dávky pro osoby se zdravotním postižením, příspěvek na péči (schémata a tabulky dávek)."
+ },
+ {
+  "cislo": "11.3",
+  "nazev": "Role obce v sociální oblasti",
+  "kapitola": "11",
+  "nazev_kapitoly": "Sociální problematika a role obce",
+  "strany_v_pdf": "158–161",
+  "soubor": "kapitoly/11-socialni-problematika-a-role-obce/11.03-role-obce-v-socialni-oblasti.md",
+  "znaku": 15779,
+  "popis": "Role obce v sociální oblasti: sociální služby, komunitní plánování sociálních služeb, sociální práce na obcích, sociálně-právní ochrana dětí."
+ },
+ {
+  "cislo": "11.4",
+  "nazev": "Vybrané aktuální problémy sociální politiky",
+  "kapitola": "11",
+  "nazev_kapitoly": "Sociální problematika a role obce",
+  "strany_v_pdf": "161–164",
+  "soubor": "kapitoly/11-socialni-problematika-a-role-obce/11.04-vybrane-aktualni-problemy-socialni-politiky.md",
+  "znaku": 18521,
+  "popis": "Aktuální sociální problémy: stárnutí populace, bytová nouze a sociální bydlení, sociální začleňování, reforma psychiatrické péče."
+ },
+ {
+  "cislo": "11.5",
+  "nazev": "Závěrem",
+  "kapitola": "11",
+  "nazev_kapitoly": "Sociální problematika a role obce",
+  "strany_v_pdf": "164–168",
+  "soubor": "kapitoly/11-socialni-problematika-a-role-obce/11.05-zaverem.md",
+  "znaku": 16265,
+  "popis": "Závěr kapitoly o sociální oblasti. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "12.1",
+  "nazev": "Role obce a státu při správě školství",
+  "kapitola": "12",
+  "nazev_kapitoly": "Školství",
+  "strany_v_pdf": "169–171",
+  "soubor": "kapitoly/12-skolstvi/12.01-role-obce-a-statu-pri-sprave-skolstvi.md",
+  "znaku": 13769,
+  "popis": "Úvod ke kapitole o školství; role obce a státu ve správě školství, školský zákon, zápis do MŠ."
+ },
+ {
+  "cislo": "12.2",
+  "nazev": "Povinnosti obce v předškolním vzdělávání",
+  "kapitola": "12",
+  "nazev_kapitoly": "Školství",
+  "strany_v_pdf": "171–172",
+  "soubor": "kapitoly/12-skolstvi/12.02-povinnosti-obce-v-predskolnim-vzdelavani.md",
+  "znaku": 5664,
+  "popis": "Povinnosti obce v předškolním vzdělávání: zřizování MŠ, spádové obvody, povinné předškolní vzdělávání."
+ },
+ {
+  "cislo": "12.3",
+  "nazev": "Povinnosti obce v základním vzdělávání",
+  "kapitola": "12",
+  "nazev_kapitoly": "Školství",
+  "strany_v_pdf": "172–173",
+  "soubor": "kapitoly/12-skolstvi/12.03-povinnosti-obce-v-zakladnim-vzdelavani.md",
+  "znaku": 4205,
+  "popis": "Povinnosti obce v základním vzdělávání: povinná školní docházka, školské obvody, dohody mezi obcemi, úhrada výdajů za žáky z jiných obcí."
+ },
+ {
+  "cislo": "12.4",
+  "nazev": "Jak zřizovat školu a školská zařízení",
+  "kapitola": "12",
+  "nazev_kapitoly": "Školství",
+  "strany_v_pdf": "173–174",
+  "soubor": "kapitoly/12-skolstvi/12.04-jak-zrizovat-skolu-a-skolska-zarizeni.md",
+  "znaku": 5216,
+  "popis": "Zřízení školy a školského zařízení: příspěvková organizace nebo školská právnická osoba, zřizovací listina, rejstřík škol, jmenování ředitele."
+ },
+ {
+  "cislo": "12.5",
+  "nazev": "Další povinnosti obce (školská rada, hmotné zabezpečení)",
+  "kapitola": "12",
+  "nazev_kapitoly": "Školství",
+  "strany_v_pdf": "174",
+  "soubor": "kapitoly/12-skolstvi/12.05-dalsi-povinnosti-obce-skolska-rada-hmotne-zabezp.md",
+  "znaku": 5270,
+  "popis": "Školská rada a hmotné zabezpečení škol."
+ },
+ {
+  "cislo": "12.6",
+  "nazev": "Další možnosti obce (další zřizovatelská působnost, výjimka z počtu žáků, hodnocení škol a školských zařízení, podpůrná opatření, komunitní škola)",
+  "kapitola": "12",
+  "nazev_kapitoly": "Školství",
+  "strany_v_pdf": "175–176",
+  "soubor": "kapitoly/12-skolstvi/12.06-dalsi-moznosti-obce-dalsi-zrizovatelska-pusobnos.md",
+  "znaku": 7279,
+  "popis": "Další možnosti obce: ZUŠ a další zařízení, výjimka z počtu žáků, hodnocení škol, podpůrná opatření, komunitní škola."
+ },
+ {
+  "cislo": "12.7",
+  "nazev": "Financování a role obce",
+  "kapitola": "12",
+  "nazev_kapitoly": "Školství",
+  "strany_v_pdf": "176–179",
+  "soubor": "kapitoly/12-skolstvi/12.07-financovani-a-role-obce.md",
+  "znaku": 17438,
+  "popis": "Financování škol: co platí stát (pedagogové, normativy) a co obec (provoz), postup financování. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "13.1",
+  "nazev": "Sociokulturní potenciál obce",
+  "kapitola": "13",
+  "nazev_kapitoly": "Kultura",
+  "strany_v_pdf": "180",
+  "soubor": "kapitoly/13-kultura/13.01-sociokulturni-potencial-obce.md",
+  "znaku": 3310,
+  "popis": "Úvod ke kapitole o kultuře; sociokulturní potenciál obce."
+ },
+ {
+  "cislo": "13.2",
+  "nazev": "Kulturní politika obce",
+  "kapitola": "13",
+  "nazev_kapitoly": "Kultura",
+  "strany_v_pdf": "180–181",
+  "soubor": "kapitoly/13-kultura/13.02-kulturni-politika-obce.md",
+  "znaku": 3137,
+  "popis": "Kulturní politika obce: koncepce, vyváženost podpory."
+ },
+ {
+  "cislo": "13.3",
+  "nazev": "Obec a kulturní zařízení",
+  "kapitola": "13",
+  "nazev_kapitoly": "Kultura",
+  "strany_v_pdf": "181–182",
+  "soubor": "kapitoly/13-kultura/13.03-obec-a-kulturni-zarizeni.md",
+  "znaku": 6366,
+  "popis": "Kulturní zařízení obce: knihovny (knihovní zákon), muzea, informační centra, galerie, divadla, kina, spolky."
+ },
+ {
+  "cislo": "13.4",
+  "nazev": "Ochrana památek a jejich regenerace",
+  "kapitola": "13",
+  "nazev_kapitoly": "Kultura",
+  "strany_v_pdf": "182",
+  "soubor": "kapitoly/13-kultura/13.04-ochrana-pamatek-a-jejich-regenerace.md",
+  "znaku": 1649,
+  "popis": "Ochrana kulturních památek a jejich regenerace, programy podpory."
+ },
+ {
+  "cislo": "13.5",
+  "nazev": "Kroniky obcí",
+  "kapitola": "13",
+  "nazev_kapitoly": "Kultura",
+  "strany_v_pdf": "182–183",
+  "soubor": "kapitoly/13-kultura/13.05-kroniky-obci.md",
+  "znaku": 1960,
+  "popis": "Kronika obce: povinnost vést kroniku, kronikář."
+ },
+ {
+  "cislo": "13.6",
+  "nazev": "Financování kultury z obecního rozpočtu",
+  "kapitola": "13",
+  "nazev_kapitoly": "Kultura",
+  "strany_v_pdf": "183–184",
+  "soubor": "kapitoly/13-kultura/13.06-financovani-kultury-z-obecniho-rozpoctu.md",
+  "znaku": 7186,
+  "popis": "Financování kultury z rozpočtu obce, granty a dotace. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "14.1",
+  "nazev": "Odpady",
+  "kapitola": "14",
+  "nazev_kapitoly": "Životní prostředí",
+  "strany_v_pdf": "185–188",
+  "soubor": "kapitoly/14-zivotni-prostredi/14.01-odpady.md",
+  "znaku": 17111,
+  "popis": "Úvod ke kapitole o životním prostředí; odpady: plány odpadového hospodářství, systém obce, směsný a tříděný odpad, poplatek, orgány odpadového hospodářství."
+ },
+ {
+  "cislo": "14.2",
+  "nazev": "Voda",
+  "kapitola": "14",
+  "nazev_kapitoly": "Životní prostředí",
+  "strany_v_pdf": "188–190",
+  "soubor": "kapitoly/14-zivotni-prostredi/14.02-voda.md",
+  "znaku": 10687,
+  "popis": "Voda: plány rozvoje vodovodů a kanalizací, pitná voda, odpadní vody, provoz vodovodů a kanalizací, povodně, vodoprávní úřady."
+ },
+ {
+  "cislo": "14.3",
+  "nazev": "Zeleň",
+  "kapitola": "14",
+  "nazev_kapitoly": "Životní prostředí",
+  "strany_v_pdf": "190",
+  "soubor": "kapitoly/14-zivotni-prostredi/14.03-zelen.md",
+  "znaku": 3869,
+  "popis": "Veřejná zeleň a kácení dřevin."
+ },
+ {
+  "cislo": "14.4",
+  "nazev": "Ovzduší",
+  "kapitola": "14",
+  "nazev_kapitoly": "Životní prostředí",
+  "strany_v_pdf": "190–191",
+  "soubor": "kapitoly/14-zivotni-prostredi/14.04-ovzdusi.md",
+  "znaku": 6417,
+  "popis": "Ochrana ovzduší: imisní limity, domácí topeniště."
+ },
+ {
+  "cislo": "14.5",
+  "nazev": "Půda, lesy, ochrana přírody, krajiny, živočichů a rostlin",
+  "kapitola": "14",
+  "nazev_kapitoly": "Životní prostředí",
+  "strany_v_pdf": "191–193",
+  "soubor": "kapitoly/14-zivotni-prostredi/14.05-puda-lesy-ochrana-prirody-krajiny-zivocichu-a-ro.md",
+  "znaku": 12298,
+  "popis": "Půda, lesy, ochrana přírody a krajiny, ochrana živočichů a rostlin; působnost obecních úřadů."
+ },
+ {
+  "cislo": "14.6",
+  "nazev": "Veřejné osvětlení",
+  "kapitola": "14",
+  "nazev_kapitoly": "Životní prostředí",
+  "strany_v_pdf": "193–194",
+  "soubor": "kapitoly/14-zivotni-prostredi/14.06-verejne-osvetleni.md",
+  "znaku": 1737,
+  "popis": "Veřejné osvětlení: technické normy, energetické úspory."
+ },
+ {
+  "cislo": "14.7",
+  "nazev": "Financování a realizace projektů v životním prostředí",
+  "kapitola": "14",
+  "nazev_kapitoly": "Životní prostředí",
+  "strany_v_pdf": "194–196",
+  "soubor": "kapitoly/14-zivotni-prostredi/14.07-financovani-a-realizace-projektu-v-zivotnim-pros.md",
+  "znaku": 14422,
+  "popis": "Financování projektů v životním prostředí: dotace a fondy, realizace projektu. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "15.1",
+  "nazev": "Pozemní komunikace ve vlastnictví obce",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "197–198",
+  "soubor": "kapitoly/15-doprava/15.01-pozemni-komunikace-ve-vlastnictvi-obce.md",
+  "znaku": 5325,
+  "popis": "Úvod ke kapitole o dopravě; pozemní komunikace ve vlastnictví obce: místní a účelové komunikace, chodníky, údržba a zimní údržba."
+ },
+ {
+  "cislo": "15.2",
+  "nazev": "Stanovení místní a přechodné úpravy provozu na pozemních komunikacích",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "198",
+  "soubor": "kapitoly/15-doprava/15.02-stanoveni-mistni-a-prechodne-upravy-provozu-na-p.md",
+  "znaku": 2988,
+  "popis": "Místní a přechodná úprava provozu (dopravní značení): kdo ji stanoví."
+ },
+ {
+  "cislo": "15.3",
+  "nazev": "Právní akty obce ve vztahu k užívání pozemních komunikací",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "198",
+  "soubor": "kapitoly/15-doprava/15.03-pravni-akty-obce-ve-vztahu-k-uzivani-pozemnich-k.md",
+  "znaku": 1988,
+  "popis": "Nařízení obce o placeném stání a užívání místních komunikací."
+ },
+ {
+  "cislo": "15.4",
+  "nazev": "Regulační řád pro případy vzniku smogové situace a nízkoemisní zóny",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "199",
+  "soubor": "kapitoly/15-doprava/15.04-regulacni-rad-pro-pripady-vzniku-smogove-situace.md",
+  "znaku": 1834,
+  "popis": "Regulační řád pro smogové situace a nízkoemisní zóny."
+ },
+ {
+  "cislo": "15.5",
+  "nazev": "Obec a bezpečnost provozu na pozemních komunikacích",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "199",
+  "soubor": "kapitoly/15-doprava/15.05-obec-a-bezpecnost-provozu-na-pozemnich-komunikac.md",
+  "znaku": 2412,
+  "popis": "Bezpečnost provozu: zklidňování dopravy, měření rychlosti obecní policií."
+ },
+ {
+  "cislo": "15.6",
+  "nazev": "Obec jako provozovatel vozidla",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "199",
+  "soubor": "kapitoly/15-doprava/15.06-obec-jako-provozovatel-vozidla.md",
+  "znaku": 1714,
+  "popis": "Obec jako provozovatel vozidla: objektivní odpovědnost provozovatele."
+ },
+ {
+  "cislo": "15.7",
+  "nazev": "Obec a veřejné služby v přepravě cestujících",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "200",
+  "soubor": "kapitoly/15-doprava/15.07-obec-a-verejne-sluzby-v-preprave-cestujicich.md",
+  "znaku": 5304,
+  "popis": "Dopravní obslužnost a veřejné služby v přepravě cestujících."
+ },
+ {
+  "cislo": "15.8",
+  "nazev": "Podpora nízkoemisních vozidel",
+  "kapitola": "15",
+  "nazev_kapitoly": "Doprava",
+  "strany_v_pdf": "200–202",
+  "soubor": "kapitoly/15-doprava/15.08-podpora-nizkoemisnich-vozidel.md",
+  "znaku": 9387,
+  "popis": "Podpora nízkoemisních vozidel: povinné podíly při nákupu vozidel (zákon o podpoře nízkoemisních vozidel). Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "16.1",
+  "nazev": "Úvodem",
+  "kapitola": "16",
+  "nazev_kapitoly": "V demokracii vzájemně komunikujeme",
+  "strany_v_pdf": "203",
+  "soubor": "kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.01-uvodem.md",
+  "znaku": 1282,
+  "popis": "Úvod ke kapitole o komunikaci s veřejností."
+ },
+ {
+  "cislo": "16.2",
+  "nazev": "Poskytování a zveřejňování informací obcemi",
+  "kapitola": "16",
+  "nazev_kapitoly": "V demokracii vzájemně komunikujeme",
+  "strany_v_pdf": "203–209",
+  "soubor": "kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.02-poskytovani-a-zverejnovani-informaci-obcemi.md",
+  "znaku": 34163,
+  "popis": "Svobodný přístup k informacím (zákon č. 106/1999 Sb.): povinné subjekty, žádosti, lhůty, úhrady, odmítnutí, zveřejňování (registr smluv, dotace, rozpočty), výroční zpráva, informace o životním prostředí."
+ },
+ {
+  "cislo": "16.3",
+  "nazev": "Participace občanů na činnosti obce",
+  "kapitola": "16",
+  "nazev_kapitoly": "V demokracii vzájemně komunikujeme",
+  "strany_v_pdf": "209–211",
+  "soubor": "kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.03-participace-obcanu-na-cinnosti-obce.md",
+  "znaku": 10920,
+  "popis": "Participace občanů: účast na zasedání zastupitelstva, právo nahlížet do dokumentů (zápisy, usnesení), podněty obecním orgánům."
+ },
+ {
+  "cislo": "16.4",
+  "nazev": "Práva zastupitele",
+  "kapitola": "16",
+  "nazev_kapitoly": "V demokracii vzájemně komunikujeme",
+  "strany_v_pdf": "211–213",
+  "soubor": "kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.04-prava-zastupitele.md",
+  "znaku": 12848,
+  "popis": "Práva zastupitele (§ 82 zákona o obcích): předkládat návrhy, vznášet dotazy, právo na informace a lhůta 30 dnů."
+ },
+ {
+  "cislo": "16.5",
+  "nazev": "Radniční periodika",
+  "kapitola": "16",
+  "nazev_kapitoly": "V demokracii vzájemně komunikujeme",
+  "strany_v_pdf": "213–214",
+  "soubor": "kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.05-radnicni-periodika.md",
+  "znaku": 6154,
+  "popis": "Radniční periodika: tiskový zákon, vyvážené informace, právo zastupitelů na prostor."
+ },
+ {
+  "cislo": "16.6",
+  "nazev": "Vyřizování petic a stížností",
+  "kapitola": "16",
+  "nazev_kapitoly": "V demokracii vzájemně komunikujeme",
+  "strany_v_pdf": "214–217",
+  "soubor": "kapitoly/16-v-demokracii-vzajemne-komunikujeme/16.06-vyrizovani-petic-a-stiznosti.md",
+  "znaku": 13223,
+  "popis": "Vyřizování petic a stížností: petice podle petičního zákona a zákona o obcích, stížnosti podle správního řádu a zákona o obcích. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "17.1",
+  "nazev": "Základní legislativní vymezení krajů",
+  "kapitola": "17",
+  "nazev_kapitoly": "Kraje v České republice",
+  "strany_v_pdf": "218–221",
+  "soubor": "kapitoly/17-kraje-v-ceske-republice/17.01-zakladni-legislativni-vymezeni-kraju.md",
+  "znaku": 8824,
+  "popis": "Úvod ke kapitole o krajích; legislativní vymezení krajů, NUTS/LAU, mapy a tabulka základních údajů o krajích."
+ },
+ {
+  "cislo": "17.2",
+  "nazev": "Činnost a kompetence krajů",
+  "kapitola": "17",
+  "nazev_kapitoly": "Kraje v České republice",
+  "strany_v_pdf": "221–222",
+  "soubor": "kapitoly/17-kraje-v-ceske-republice/17.02-cinnost-a-kompetence-kraju.md",
+  "znaku": 6767,
+  "popis": "Činnost a kompetence krajů: bezpečnost, doprava, kultura, kontrola obcí, legislativa, regionální rozvoj, sociální služby, školství, zdravotnictví."
+ },
+ {
+  "cislo": "17.3",
+  "nazev": "Orgány kraje",
+  "kapitola": "17",
+  "nazev_kapitoly": "Kraje v České republice",
+  "strany_v_pdf": "222–223",
+  "soubor": "kapitoly/17-kraje-v-ceske-republice/17.03-organy-kraje.md",
+  "znaku": 3856,
+  "popis": "Orgány kraje: zastupitelstvo, rada, hejtman, krajský úřad."
+ },
+ {
+  "cislo": "17.4",
+  "nazev": "Financování krajů",
+  "kapitola": "17",
+  "nazev_kapitoly": "Kraje v České republice",
+  "strany_v_pdf": "223–224",
+  "soubor": "kapitoly/17-kraje-v-ceske-republice/17.04-financovani-kraju.md",
+  "znaku": 1894,
+  "popis": "Financování krajů: příjmy a výdaje, schéma rozpočtového určení daní od 1. 1. 2022 (převedeno na tabulku podílů kraje/obce/stát)."
+ },
+ {
+  "cislo": "17.5",
+  "nazev": "Asociace krajů České republiky",
+  "kapitola": "17",
+  "nazev_kapitoly": "Kraje v České republice",
+  "strany_v_pdf": "223–224",
+  "soubor": "kapitoly/17-kraje-v-ceske-republice/17.05-asociace-kraju-ceske-republiky.md",
+  "znaku": 1316,
+  "popis": "Asociace krajů ČR: cíle a orgány."
+ },
+ {
+  "cislo": "17.6",
+  "nazev": "Závěr a shrnutí",
+  "kapitola": "17",
+  "nazev_kapitoly": "Kraje v České republice",
+  "strany_v_pdf": "224–225",
+  "soubor": "kapitoly/17-kraje-v-ceske-republice/17.06-zaver-a-shrnuti.md",
+  "znaku": 6293,
+  "popis": "Shrnutí kapitoly o krajích. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "18.1",
+  "nazev": "Evropská unie a obec",
+  "kapitola": "18",
+  "nazev_kapitoly": "Obce a Evropská unie",
+  "strany_v_pdf": "226",
+  "soubor": "kapitoly/18-obce-a-evropska-unie/18.01-evropska-unie-a-obec.md",
+  "znaku": 3195,
+  "popis": "Úvod ke kapitole o EU; Evropská unie a obec: principy, vazby samosprávy na EU."
+ },
+ {
+  "cislo": "18.2",
+  "nazev": "Dotace v životě obcí",
+  "kapitola": "18",
+  "nazev_kapitoly": "Obce a Evropská unie",
+  "strany_v_pdf": "227–228",
+  "soubor": "kapitoly/18-obce-a-evropska-unie/18.02-dotace-v-zivote-obci.md",
+  "znaku": 7181,
+  "popis": "Evropské fondy (ESIF: ERDF, ESF, Fond soudržnosti, zemědělský fond) a další nástroje podpory."
+ },
+ {
+  "cislo": "18.3",
+  "nazev": "Pozitiva a úskalí dotací",
+  "kapitola": "18",
+  "nazev_kapitoly": "Obce a Evropská unie",
+  "strany_v_pdf": "228–229",
+  "soubor": "kapitoly/18-obce-a-evropska-unie/18.03-pozitiva-a-uskali-dotaci.md",
+  "znaku": 5772,
+  "popis": "Výhody a úskalí dotací, doporučení pro žadatele."
+ },
+ {
+  "cislo": "18.4",
+  "nazev": "Výhled do blízké budoucnosti a průběh programového období 2021–2027",
+  "kapitola": "18",
+  "nazev_kapitoly": "Obce a Evropská unie",
+  "strany_v_pdf": "229–232",
+  "soubor": "kapitoly/18-obce-a-evropska-unie/18.04-vyhled-do-blizke-budoucnosti-a-prubeh-programove.md",
+  "znaku": 16822,
+  "popis": "Programové období 2021–2027: analýza potřeb měst a obcí, procesní požadavky, podporované oblasti. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "19.1",
+  "nazev": "Sídelní struktura a výchozí pozice pro spolupráci obcí v České republice",
+  "kapitola": "19",
+  "nazev_kapitoly": "Spolupráce obcí v České republice",
+  "strany_v_pdf": "233–235",
+  "soubor": "kapitoly/19-spoluprace-obci-v-ceske-republice/19.01-sidelni-struktura-a-vychozi-pozice-pro-spoluprac.md",
+  "znaku": 5622,
+  "popis": "Úvod ke kapitole o spolupráci obcí; sídelní struktura ČR a fragmentace obcí, mapy typologie a osídlení."
+ },
+ {
+  "cislo": "19.2",
+  "nazev": "Formy spolupráce obcí v ČR",
+  "kapitola": "19",
+  "nazev_kapitoly": "Spolupráce obcí v České republice",
+  "strany_v_pdf": "235–236",
+  "soubor": "kapitoly/19-spoluprace-obci-v-ceske-republice/19.02-formy-spoluprace-obci-v-cr.md",
+  "znaku": 6928,
+  "popis": "Formy spolupráce obcí: svazek obcí (DSO), obchodní korporace, spolek, veřejnoprávní smlouvy (přenesená působnost)."
+ },
+ {
+  "cislo": "19.3",
+  "nazev": "Spolupráce prostřednictvím profesionálně fungujících mikroregionů",
+  "kapitola": "19",
+  "nazev_kapitoly": "Spolupráce obcí v České republice",
+  "strany_v_pdf": "237–240",
+  "soubor": "kapitoly/19-spoluprace-obci-v-ceske-republice/19.03-spoluprace-prostrednictvim-profesionalne-funguji.md",
+  "znaku": 20649,
+  "popis": "Profesionálně fungující mikroregiony: projekt SMO, služby pro obce (dotační poradenství, GDPR, společné nákupy), financování."
+ },
+ {
+  "cislo": "19.4",
+  "nazev": "Spolupráce obcí prostřednictvím Místních akčních skupin",
+  "kapitola": "19",
+  "nazev_kapitoly": "Spolupráce obcí v České republice",
+  "strany_v_pdf": "240–241",
+  "soubor": "kapitoly/19-spoluprace-obci-v-ceske-republice/19.04-spoluprace-obci-prostrednictvim-mistnich-akcnich.md",
+  "znaku": 1342,
+  "popis": "Místní akční skupiny (MAS), metoda LEADER; mapa pokrytí ČR."
+ },
+ {
+  "cislo": "19.5",
+  "nazev": "Závěrem",
+  "kapitola": "19",
+  "nazev_kapitoly": "Spolupráce obcí v České republice",
+  "strany_v_pdf": "241–243",
+  "soubor": "kapitoly/19-spoluprace-obci-v-ceske-republice/19.05-zaverem.md",
+  "znaku": 7204,
+  "popis": "Závěr kapitoly o spolupráci obcí. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "20.1",
+  "nazev": "Obecný výklad",
+  "kapitola": "20",
+  "nazev_kapitoly": "Jak se vyznat v právních předpisech",
+  "strany_v_pdf": "244",
+  "soubor": "kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.01-obecny-vyklad.md",
+  "znaku": 3192,
+  "popis": "Úvod ke kapitole o právních předpisech; obecný výklad."
+ },
+ {
+  "cislo": "20.2",
+  "nazev": "Druhy právních předpisů, jejich tvorba a publikace",
+  "kapitola": "20",
+  "nazev_kapitoly": "Jak se vyznat v právních předpisech",
+  "strany_v_pdf": "244–247",
+  "soubor": "kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.02-druhy-pravnich-predpisu-jejich-tvorba-a-publikac.md",
+  "znaku": 17536,
+  "popis": "Druhy právních předpisů, legislativní proces a publikace ve Sbírce zákonů, právo EU."
+ },
+ {
+  "cislo": "20.3",
+  "nazev": "Hierarchie právních předpisů a vztahy mezi nimi",
+  "kapitola": "20",
+  "nazev_kapitoly": "Jak se vyznat v právních předpisech",
+  "strany_v_pdf": "247–248",
+  "soubor": "kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.03-hierarchie-pravnich-predpisu-a-vztahy-mezi-nimi.md",
+  "znaku": 4204,
+  "popis": "Hierarchie právních předpisů: právní síla a řešení rozporů mezi předpisy."
+ },
+ {
+  "cislo": "20.4",
+  "nazev": "Výklad právních předpisů",
+  "kapitola": "20",
+  "nazev_kapitoly": "Jak se vyznat v právních předpisech",
+  "strany_v_pdf": "248–249",
+  "soubor": "kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.04-vyklad-pravnich-predpisu.md",
+  "znaku": 7884,
+  "popis": "Výklad právních předpisů: metody výkladu."
+ },
+ {
+  "cislo": "20.5",
+  "nazev": "Výkladové pomůcky",
+  "kapitola": "20",
+  "nazev_kapitoly": "Jak se vyznat v právních předpisech",
+  "strany_v_pdf": "249–251",
+  "soubor": "kapitoly/20-jak-se-vyznat-v-pravnich-predpisech/20.05-vykladove-pomucky.md",
+  "znaku": 8756,
+  "popis": "Výkladové pomůcky: judikatura, metodiky ministerstev, komentáře, Právní poradna pro obce. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "21.1",
+  "nazev": "Obecní úřad a jeho vztah k dalším orgánům obce",
+  "kapitola": "21",
+  "nazev_kapitoly": "Politici a úředníci – partneři při správě obce",
+  "strany_v_pdf": "252",
+  "soubor": "kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.01-obecni-urad-a-jeho-vztah-k-dalsim-organum-obce.md",
+  "znaku": 2888,
+  "popis": "Úvod ke kapitole o úřednících; obecní úřad a jeho vztah k ostatním orgánům obce."
+ },
+ {
+  "cislo": "21.2",
+  "nazev": "Úředníci územního samosprávného celku",
+  "kapitola": "21",
+  "nazev_kapitoly": "Politici a úředníci – partneři při správě obce",
+  "strany_v_pdf": "252–253",
+  "soubor": "kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.02-urednici-uzemniho-samospravneho-celku.md",
+  "znaku": 6518,
+  "popis": "Úředníci samosprávného celku: kdo je úředník, zákon o úřednících, základní povinnosti úředníka."
+ },
+ {
+  "cislo": "21.3",
+  "nazev": "Úkoly obecního úřadu v oblasti samostatné a přenesené působnosti",
+  "kapitola": "21",
+  "nazev_kapitoly": "Politici a úředníci – partneři při správě obce",
+  "strany_v_pdf": "253–254",
+  "soubor": "kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.03-ukoly-obecniho-uradu-v-oblasti-samostatne-a-pren.md",
+  "znaku": 3247,
+  "popis": "Úkoly obecního úřadu v samostatné a přenesené působnosti."
+ },
+ {
+  "cislo": "21.4",
+  "nazev": "Kompetence zastupitelů a vedoucího úřadu (tajemníka obecního úřadu)",
+  "kapitola": "21",
+  "nazev_kapitoly": "Politici a úředníci – partneři při správě obce",
+  "strany_v_pdf": "254–255",
+  "soubor": "kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.04-kompetence-zastupitelu-a-vedouciho-uradu-tajemni.md",
+  "znaku": 6443,
+  "popis": "Kompetence zastupitelů vs. tajemníka obecního úřadu, kdo komu ukládá úkoly."
+ },
+ {
+  "cislo": "21.5",
+  "nazev": "Spolupráce zastupitelů a úředníků na správě obce",
+  "kapitola": "21",
+  "nazev_kapitoly": "Politici a úředníci – partneři při správě obce",
+  "strany_v_pdf": "255–256",
+  "soubor": "kapitoly/21-politici-a-urednici-partneri-pri-sprave/21.05-spoluprace-zastupitelu-a-uredniku-na-sprave-obce.md",
+  "znaku": 6039,
+  "popis": "Spolupráce zastupitelů a úředníků, komunikace. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "22.1",
+  "nazev": "Úvod do ochrany osobních údajů",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "257",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.01-uvod-do-ochrany-osobnich-udaju.md",
+  "znaku": 2958,
+  "popis": "Úvod ke kapitole o GDPR; úvod do ochrany osobních údajů, zákon č. 110/2019 Sb."
+ },
+ {
+  "cislo": "22.2",
+  "nazev": "Základní práva dle nařízení GDPR",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "257–258",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.02-zakladni-prava-dle-narizeni-gdpr.md",
+  "znaku": 1318,
+  "popis": "Práva subjektů údajů podle GDPR."
+ },
+ {
+  "cislo": "22.3",
+  "nazev": "Působnost nařízení GDPR",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "258",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.03-pusobnost-narizeni-gdpr.md",
+  "znaku": 2559,
+  "popis": "Působnost GDPR: věcná, místní, časová."
+ },
+ {
+  "cislo": "22.4",
+  "nazev": "Základní zásady zpracování osobních údajů",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "258–259",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.04-zakladni-zasady-zpracovani-osobnich-udaju.md",
+  "znaku": 2138,
+  "popis": "Zásady zpracování osobních údajů: zákonnost, účelové omezení, minimalizace, odpovědnost správce."
+ },
+ {
+  "cislo": "22.5",
+  "nazev": "Osobní údaj",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "259–260",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.05-osobni-udaj.md",
+  "znaku": 10458,
+  "popis": "Co je osobní údaj: rodné číslo, úřední doklady."
+ },
+ {
+  "cislo": "22.6",
+  "nazev": "Zpracování osobních údajů",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "260–261",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.06-zpracovani-osobnich-udaju.md",
+  "znaku": 6396,
+  "popis": "Druhy zpracování osobních údajů, pseudonymizace."
+ },
+ {
+  "cislo": "22.7",
+  "nazev": "Právní titul ke zpracování osobních údajů",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "261–262",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.07-pravni-titul-ke-zpracovani-osobnich-udaju.md",
+  "znaku": 2512,
+  "popis": "Právní tituly zpracování (čl. 6 GDPR), zvláštní kategorie údajů."
+ },
+ {
+  "cislo": "22.8",
+  "nazev": "Právní tituly využívané obcemi při zpracování osobních údajů",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "262",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.08-pravni-tituly-vyuzivane-obcemi-pri-zpracovani-os.md",
+  "znaku": 2443,
+  "popis": "Právní tituly, které obce typicky využívají: smlouva, právní povinnost, veřejný zájem, životně důležitý zájem, souhlas."
+ },
+ {
+  "cislo": "22.9",
+  "nazev": "Zpracování údajů při plnění zákonných povinností obce",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "262–264",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.09-zpracovani-udaju-pri-plneni-zakonnych-povinnosti.md",
+  "znaku": 10296,
+  "popis": "Zpracování údajů při plnění zákonných povinností obce: zápisy ze zastupitelstva, zveřejňování, záznamy z jednání, sociální sítě."
+ },
+ {
+  "cislo": "22.10",
+  "nazev": "Oprávněný zájem obce na zpracování osobních údajů",
+  "kapitola": "22",
+  "nazev_kapitoly": "Ochrana osobních údajů – GDPR",
+  "strany_v_pdf": "264–266",
+  "soubor": "kapitoly/22-ochrana-osobnich-udaju-gdpr/22.10-opravneny-zajem-obce-na-zpracovani-osobnich-udaj.md",
+  "znaku": 6467,
+  "popis": "Oprávněný zájem obce jako titul zpracování osobních údajů a příklady oprávněných zájmů obce. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "23.1",
+  "nazev": "Právo na digitální službu",
+  "kapitola": "23",
+  "nazev_kapitoly": "Elektronizace veřejné správy",
+  "strany_v_pdf": "267",
+  "soubor": "kapitoly/23-elektronizace-verejne-spravy/23.01-pravo-na-digitalni-sluzbu.md",
+  "znaku": 3009,
+  "popis": "Úvod ke kapitole o elektronizaci; právo na digitální službu, základní registry."
+ },
+ {
+  "cislo": "23.2",
+  "nazev": "DEPO",
+  "kapitola": "23",
+  "nazev_kapitoly": "Elektronizace veřejné správy",
+  "strany_v_pdf": "267–268",
+  "soubor": "kapitoly/23-elektronizace-verejne-spravy/23.02-depo.md",
+  "znaku": 1708,
+  "popis": "Zákon DEPO (digitalizace) a jeho dopady na obce."
+ },
+ {
+  "cislo": "23.3",
+  "nazev": "Portál občana",
+  "kapitola": "23",
+  "nazev_kapitoly": "Elektronizace veřejné správy",
+  "strany_v_pdf": "268–269",
+  "soubor": "kapitoly/23-elektronizace-verejne-spravy/23.03-portal-obcana.md",
+  "znaku": 6485,
+  "popis": "Portál občana, městské portály, oblíbené elektronické služby."
+ },
+ {
+  "cislo": "23.4",
+  "nazev": "Jak to bude fungovat",
+  "kapitola": "23",
+  "nazev_kapitoly": "Elektronizace veřejné správy",
+  "strany_v_pdf": "269",
+  "soubor": "kapitoly/23-elektronizace-verejne-spravy/23.04-jak-to-bude-fungovat.md",
+  "znaku": 1821,
+  "popis": "Jak bude fungovat elektronická veřejná správa: identita, datové schránky."
+ },
+ {
+  "cislo": "23.5",
+  "nazev": "Stinné stránky elektronizace",
+  "kapitola": "23",
+  "nazev_kapitoly": "Elektronizace veřejné správy",
+  "strany_v_pdf": "269",
+  "soubor": "kapitoly/23-elektronizace-verejne-spravy/23.05-stinne-stranky-elektronizace.md",
+  "znaku": 2493,
+  "popis": "Stinné stránky elektronizace: platnost elektronických podpisů, archivace."
+ },
+ {
+  "cislo": "23.6",
+  "nazev": "Pár slov závěrem",
+  "kapitola": "23",
+  "nazev_kapitoly": "Elektronizace veřejné správy",
+  "strany_v_pdf": "269–270",
+  "soubor": "kapitoly/23-elektronizace-verejne-spravy/23.06-par-slov-zaverem.md",
+  "znaku": 4348,
+  "popis": "Závěr kapitoly o elektronizaci. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "24.1",
+  "nazev": "Úvod do kybernetické a informační bezpečnosti",
+  "kapitola": "24",
+  "nazev_kapitoly": "Kybernetická a informační bezpečnost",
+  "strany_v_pdf": "271",
+  "soubor": "kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.01-uvod-do-kyberneticke-a-informacni-bezpecnosti.md",
+  "znaku": 2585,
+  "popis": "Úvod do kybernetické a informační bezpečnosti."
+ },
+ {
+  "cislo": "24.2",
+  "nazev": "Kybernetická a informační bezpečnost v souvislostech",
+  "kapitola": "24",
+  "nazev_kapitoly": "Kybernetická a informační bezpečnost",
+  "strany_v_pdf": "271–273",
+  "soubor": "kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.02-kyberneticka-a-informacni-bezpecnost-v-souvislos.md",
+  "znaku": 7465,
+  "popis": "Souvislosti: od dat k rozhodnutí (schéma), motivace útočníků (peníze, hacktivismus, špionáž)."
+ },
+ {
+  "cislo": "24.3",
+  "nazev": "Legislativa",
+  "kapitola": "24",
+  "nazev_kapitoly": "Kybernetická a informační bezpečnost",
+  "strany_v_pdf": "273",
+  "soubor": "kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.03-legislativa.md",
+  "znaku": 2865,
+  "popis": "Legislativa: zákon č. 181/2014 Sb. o kybernetické bezpečnosti, vyhláška č. 82/2018 Sb."
+ },
+ {
+  "cislo": "24.4",
+  "nazev": "Praktická realizace z pohledu obce",
+  "kapitola": "24",
+  "nazev_kapitoly": "Kybernetická a informační bezpečnost",
+  "strany_v_pdf": "273–276",
+  "soubor": "kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.04-prakticka-realizace-z-pohledu-obce.md",
+  "znaku": 16084,
+  "popis": "Praktická realizace v obci: zmapování situace, řízení aktiv a rizik, organizační a technická opatření, řízení dodavatelů."
+ },
+ {
+  "cislo": "24.5",
+  "nazev": "Co nedělat",
+  "kapitola": "24",
+  "nazev_kapitoly": "Kybernetická a informační bezpečnost",
+  "strany_v_pdf": "276–277",
+  "soubor": "kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.05-co-nedelat.md",
+  "znaku": 3647,
+  "popis": "Co nedělat: základní bezpečnostní zásady pro uživatele (hesla, e-maily, přílohy)."
+ },
+ {
+  "cislo": "24.6",
+  "nazev": "Shrnutí",
+  "kapitola": "24",
+  "nazev_kapitoly": "Kybernetická a informační bezpečnost",
+  "strany_v_pdf": "277–278",
+  "soubor": "kapitoly/24-kyberneticka-a-informacni-bezpecnost/24.06-shrnuti.md",
+  "znaku": 3196,
+  "popis": "Shrnutí: výběr opatření podle analýzy rizik. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "25.1",
+  "nazev": "Přímý účinek směrnic aneb proč je třeba dodržovat pravidla, i když chybí český prováděcí zákon",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "279–280",
+  "soubor": "kapitoly/25-whistleblowing/25.01-primy-ucinek-smernic-aneb-proc-je-treba-dodrzova.md",
+  "znaku": 5072,
+  "popis": "Úvod ke kapitole o whistleblowingu; přímý účinek směrnice EU 2019/1937 při chybějícím českém zákoně (stav 2022, zákon byl přijat až 2023)."
+ },
+ {
+  "cislo": "25.2",
+  "nazev": "Hlavní prvky Směrnice",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "280",
+  "soubor": "kapitoly/25-whistleblowing/25.02-hlavni-prvky-smernice.md",
+  "znaku": 955,
+  "popis": "Hlavní prvky směrnice o ochraně oznamovatelů."
+ },
+ {
+  "cislo": "25.3",
+  "nazev": "Působnost Směrnice, neboli koho se směrnice týká a na jaké oblasti se vztahuje",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "280–281",
+  "soubor": "kapitoly/25-whistleblowing/25.03-pusobnost-smernice-neboli-koho-se-smernice-tyka.md",
+  "znaku": 4282,
+  "popis": "Koho se směrnice týká a na jaké oblasti práva se vztahuje."
+ },
+ {
+  "cislo": "25.4",
+  "nazev": "Co je interní kanál pro oznamování a kdo má povinnost ho zavést",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "281",
+  "soubor": "kapitoly/25-whistleblowing/25.04-co-je-interni-kanal-pro-oznamovani-a-kdo-ma-povi.md",
+  "znaku": 4535,
+  "popis": "Interní oznamovací kanál: kdo jej musí zavést (obce nad 10 000 obyvatel), lhůty."
+ },
+ {
+  "cislo": "25.5",
+  "nazev": "Externí kanál pro oznamování",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "282",
+  "soubor": "kapitoly/25-whistleblowing/25.05-externi-kanal-pro-oznamovani.md",
+  "znaku": 1722,
+  "popis": "Externí oznamovací kanál."
+ },
+ {
+  "cislo": "25.6",
+  "nazev": "Zveřejňování",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "282",
+  "soubor": "kapitoly/25-whistleblowing/25.06-zverejnovani.md",
+  "znaku": 874,
+  "popis": "Zveřejnění oznámení a podmínky ochrany."
+ },
+ {
+  "cislo": "25.7",
+  "nazev": "Ochranná a podpůrná opatření",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "282",
+  "soubor": "kapitoly/25-whistleblowing/25.07-ochranna-a-podpurna-opatreni.md",
+  "znaku": 1832,
+  "popis": "Ochranná a podpůrná opatření, zákaz odvetných opatření."
+ },
+ {
+  "cislo": "25.8",
+  "nazev": "Sankce",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "282",
+  "soubor": "kapitoly/25-whistleblowing/25.08-sankce.md",
+  "znaku": 1086,
+  "popis": "Sankce za porušení."
+ },
+ {
+  "cislo": "25.9",
+  "nazev": "Závěr",
+  "kapitola": "25",
+  "nazev_kapitoly": "Whistleblowing",
+  "strany_v_pdf": "282–284",
+  "soubor": "kapitoly/25-whistleblowing/25.09-zaver.md",
+  "znaku": 5884,
+  "popis": "Závěr: co z toho pro obce plyne. Na konci: časté otázky, související předpisy, literatura a dotazy z Právní poradny pro obce."
+ },
+ {
+  "cislo": "26",
+  "nazev": "Na příručce spolupracovali",
+  "kapitola": "26",
+  "nazev_kapitoly": "Na příručce spolupracovali",
+  "strany_v_pdf": "285–288",
+  "soubor": "kapitoly/26-na-prirucce-spolupracovali.md",
+  "znaku": 3953,
+  "popis": "Seznam autorů kapitol, oponentů a editorů příručky."
+ }
+]
